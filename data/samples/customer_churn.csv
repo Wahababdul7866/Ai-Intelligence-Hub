@@ -1,0 +1,1001 @@
+customer_id,tenure_months,monthly_charges,total_charges,contract,internet_service,tech_support,paperless_billing,payment_method,churn
+CUST-10000,52,105.57,5508.96,Month-to-month,DSL,No,Yes,Credit card,1
+CUST-10001,15,103.02,1538.96,One year,DSL,No,Yes,Electronic check,0
+CUST-10002,61,59.72,3646.83,Month-to-month,No,No,No,Electronic check,0
+CUST-10003,21,86.81,1802.0,Month-to-month,Fiber optic,Yes,Yes,Bank transfer,0
+CUST-10004,24,40.5,982.8,Month-to-month,Fiber optic,Yes,No,Credit card,0
+CUST-10005,3,49.31,169.63,Month-to-month,No,No,Yes,Bank transfer,1
+CUST-10006,22,109.63,2404.14,Month-to-month,No,No,Yes,Bank transfer,1
+CUST-10007,53,21.3,1112.25,One year,Fiber optic,No,Yes,Electronic check,0
+CUST-10008,2,28.55,61.27,Two year,Fiber optic,Yes,Yes,Bank transfer,0
+CUST-10009,30,40.79,1245.52,Two year,DSL,No,Yes,Mailed check,1
+CUST-10010,38,22.65,838.95,One year,DSL,No,Yes,Bank transfer,1
+CUST-10011,2,38.14,59.69,Month-to-month,Fiber optic,No,Yes,Credit card,0
+CUST-10012,64,78.3,5004.39,Month-to-month,Fiber optic,No,Yes,Mailed check,0
+CUST-10013,60,62.14,3716.09,Month-to-month,Fiber optic,Yes,Yes,Electronic check,0
+CUST-10014,21,109.27,2282.41,Month-to-month,DSL,No,No,Credit card,1
+CUST-10015,33,101.74,3326.01,Month-to-month,DSL,No,Yes,Mailed check,1
+CUST-10016,58,54.18,3151.28,Month-to-month,Fiber optic,No,No,Credit card,0
+CUST-10017,22,45.94,1015.76,Month-to-month,DSL,No,No,Mailed check,0
+CUST-10018,49,57.97,2815.05,Month-to-month,Fiber optic,No,Yes,Credit card,1
+CUST-10019,59,79.03,4684.63,Two year,Fiber optic,No,Yes,Credit card,0
+CUST-10020,42,46.81,1991.24,One year,Fiber optic,Yes,Yes,Mailed check,0
+CUST-10021,60,82.41,4933.34,Month-to-month,Fiber optic,Yes,No,Electronic check,1
+CUST-10022,15,60.94,931.6,Two year,No,No,No,Electronic check,0
+CUST-10023,62,75.2,4653.81,Two year,Fiber optic,No,No,Credit card,0
+CUST-10024,62,63.61,3946.54,Month-to-month,Fiber optic,No,No,Credit card,0
+CUST-10025,47,49.45,2311.61,Month-to-month,Fiber optic,Yes,No,Electronic check,0
+CUST-10026,62,114.85,7153.91,Month-to-month,DSL,No,Yes,Electronic check,0
+CUST-10027,51,96.36,4909.92,Two year,DSL,No,Yes,Bank transfer,0
+CUST-10028,55,34.01,1872.45,Two year,DSL,Yes,No,Electronic check,0
+CUST-10029,64,106.85,6828.08,Month-to-month,Fiber optic,No,Yes,Credit card,1
+CUST-10030,3,68.74,234.14,Month-to-month,Fiber optic,Yes,Yes,Mailed check,1
+CUST-10031,51,109.46,5610.76,One year,Fiber optic,Yes,No,Electronic check,0
+CUST-10032,7,99.99,724.39,Month-to-month,DSL,No,Yes,Bank transfer,1
+CUST-10033,21,62.52,1327.27,Month-to-month,DSL,No,No,Bank transfer,0
+CUST-10034,39,22.25,858.38,Two year,No,No,No,Bank transfer,0
+CUST-10035,18,46.87,856.08,One year,DSL,No,Yes,Mailed check,1
+CUST-10036,4,74.16,296.53,Two year,Fiber optic,No,No,Electronic check,1
+CUST-10037,60,83.35,5020.69,Two year,Fiber optic,No,Yes,Electronic check,0
+CUST-10038,14,45.79,657.8,One year,Fiber optic,No,Yes,Electronic check,0
+CUST-10039,9,33.94,295.72,Month-to-month,DSL,No,Yes,Mailed check,0
+CUST-10040,53,103.49,5499.19,One year,DSL,Yes,Yes,Mailed check,0
+CUST-10041,2,118.44,247.11,Month-to-month,DSL,No,Yes,Credit card,1
+CUST-10042,60,72.57,4312.6,One year,Fiber optic,Yes,Yes,Bank transfer,0
+CUST-10043,71,37.17,2651.08,Month-to-month,Fiber optic,Yes,Yes,Bank transfer,0
+CUST-10044,44,47.23,2071.64,One year,DSL,No,Yes,Electronic check,0
+CUST-10045,8,21.84,161.43,Month-to-month,Fiber optic,No,No,Mailed check,1
+CUST-10046,47,111.43,5224.56,Month-to-month,Fiber optic,No,No,Mailed check,0
+CUST-10047,35,31.78,1110.27,Month-to-month,DSL,No,Yes,Electronic check,1
+CUST-10048,36,77.65,2802.6,Month-to-month,Fiber optic,No,Yes,Electronic check,0
+CUST-10049,50,47.41,2350.02,One year,Fiber optic,Yes,Yes,Credit card,0
+CUST-10050,4,75.42,304.53,One year,DSL,Yes,Yes,Bank transfer,0
+CUST-10051,2,85.14,178.93,Month-to-month,DSL,Yes,No,Bank transfer,1
+CUST-10052,6,102.97,645.75,Month-to-month,Fiber optic,No,No,Bank transfer,0
+CUST-10053,54,40.64,2178.41,Month-to-month,No,Yes,Yes,Credit card,1
+CUST-10054,4,21.1,79.16,Month-to-month,Fiber optic,No,Yes,Electronic check,0
+CUST-10055,54,33.69,1823.18,Month-to-month,Fiber optic,No,Yes,Electronic check,0
+CUST-10056,63,110.0,6947.21,Two year,Fiber optic,Yes,No,Bank transfer,0
+CUST-10057,18,107.39,1928.46,Month-to-month,DSL,No,Yes,Bank transfer,1
+CUST-10058,44,79.74,3526.54,Month-to-month,Fiber optic,No,No,Credit card,1
+CUST-10059,34,80.05,2692.64,Month-to-month,Fiber optic,Yes,No,Mailed check,0
+CUST-10060,62,86.5,5344.2,Month-to-month,DSL,No,Yes,Mailed check,0
+CUST-10061,14,37.54,530.79,Month-to-month,Fiber optic,No,Yes,Bank transfer,1
+CUST-10062,48,111.44,5327.96,One year,Fiber optic,No,No,Credit card,1
+CUST-10063,15,61.88,910.58,Month-to-month,DSL,No,Yes,Bank transfer,1
+CUST-10064,62,58.31,3607.3,Month-to-month,No,No,Yes,Mailed check,0
+CUST-10065,40,71.89,2887.17,Month-to-month,DSL,No,Yes,Bank transfer,1
+CUST-10066,53,24.7,1280.66,Month-to-month,DSL,Yes,No,Mailed check,0
+CUST-10067,24,36.63,881.67,Month-to-month,DSL,No,No,Mailed check,0
+CUST-10068,26,93.8,2454.29,Two year,Fiber optic,No,No,Mailed check,1
+CUST-10069,60,28.28,1693.88,One year,Fiber optic,Yes,No,Electronic check,0
+CUST-10070,41,80.32,3287.59,One year,DSL,No,No,Electronic check,1
+CUST-10071,29,44.53,1297.4,Month-to-month,Fiber optic,No,No,Bank transfer,0
+CUST-10072,15,58.93,881.07,Month-to-month,DSL,No,Yes,Mailed check,1
+CUST-10073,45,48.87,2220.01,Month-to-month,Fiber optic,No,Yes,Electronic check,0
+CUST-10074,65,55.57,3595.38,One year,Fiber optic,No,No,Bank transfer,0
+CUST-10075,71,91.9,6524.13,One year,Fiber optic,No,No,Bank transfer,0
+CUST-10076,9,49.71,450.48,Month-to-month,No,No,No,Bank transfer,0
+CUST-10077,1,76.64,76.64,Month-to-month,DSL,No,Yes,Bank transfer,1
+CUST-10078,8,67.61,497.81,Month-to-month,DSL,No,No,Bank transfer,0
+CUST-10079,63,86.37,5438.9,Two year,Fiber optic,No,No,Credit card,0
+CUST-10080,11,113.68,1263.98,One year,No,No,Yes,Mailed check,0
+CUST-10081,8,93.26,757.75,Month-to-month,DSL,No,Yes,Bank transfer,1
+CUST-10082,35,41.49,1457.47,Month-to-month,DSL,No,Yes,Credit card,0
+CUST-10083,35,23.12,792.73,One year,DSL,No,Yes,Mailed check,0
+CUST-10084,33,46.23,1531.52,Month-to-month,Fiber optic,Yes,Yes,Electronic check,0
+CUST-10085,5,79.51,388.95,Month-to-month,DSL,No,Yes,Bank transfer,1
+CUST-10086,41,25.14,1036.04,Month-to-month,Fiber optic,No,Yes,Credit card,0
+CUST-10087,28,69.64,1951.74,One year,No,Yes,No,Electronic check,0
+CUST-10088,7,79.68,543.11,Month-to-month,Fiber optic,No,No,Credit card,0
+CUST-10089,12,53.42,627.65,Month-to-month,DSL,No,No,Mailed check,0
+CUST-10090,34,97.09,3306.39,Two year,Fiber optic,No,Yes,Mailed check,1
+CUST-10091,33,30.66,1008.46,Month-to-month,DSL,Yes,Yes,Electronic check,0
+CUST-10092,48,27.51,1307.88,Month-to-month,No,No,No,Credit card,1
+CUST-10093,23,92.82,2121.02,Month-to-month,Fiber optic,No,Yes,Bank transfer,1
+CUST-10094,62,69.55,4307.54,Month-to-month,DSL,Yes,No,Bank transfer,0
+CUST-10095,37,88.84,3310.6,One year,Fiber optic,No,No,Electronic check,0
+CUST-10096,44,63.48,2785.23,Month-to-month,Fiber optic,No,Yes,Electronic check,0
+CUST-10097,35,44.64,1562.19,Month-to-month,Fiber optic,Yes,No,Electronic check,0
+CUST-10098,65,101.91,6625.67,One year,DSL,No,Yes,Credit card,0
+CUST-10099,47,99.94,4680.21,One year,Fiber optic,No,Yes,Bank transfer,1
+CUST-10100,3,89.47,241.97,One year,No,Yes,No,Bank transfer,0
+CUST-10101,1,47.21,47.21,Month-to-month,Fiber optic,Yes,Yes,Bank transfer,1
+CUST-10102,5,79.02,398.81,Month-to-month,No,Yes,No,Electronic check,0
+CUST-10103,14,56.1,786.71,One year,DSL,Yes,Yes,Bank transfer,0
+CUST-10104,27,29.16,797.86,Month-to-month,Fiber optic,No,Yes,Mailed check,1
+CUST-10105,9,111.73,1007.02,Two year,Fiber optic,No,Yes,Electronic check,1
+CUST-10106,15,33.68,503.56,Two year,Fiber optic,Yes,No,Bank transfer,1
+CUST-10107,42,115.02,4821.78,Two year,Fiber optic,Yes,Yes,Credit card,0
+CUST-10108,51,64.6,3307.87,Month-to-month,DSL,Yes,Yes,Electronic check,0
+CUST-10109,63,38.51,2412.34,Month-to-month,DSL,No,No,Mailed check,0
+CUST-10110,52,74.19,3841.22,One year,DSL,Yes,Yes,Mailed check,0
+CUST-10111,4,107.29,437.67,Month-to-month,DSL,No,No,Credit card,1
+CUST-10112,23,93.22,2124.06,Month-to-month,Fiber optic,No,Yes,Credit card,1
+CUST-10113,15,100.66,1546.12,Two year,DSL,Yes,No,Electronic check,0
+CUST-10114,43,85.88,3694.04,Two year,DSL,No,No,Electronic check,1
+CUST-10115,29,89.23,2592.89,Month-to-month,Fiber optic,No,Yes,Mailed check,0
+CUST-10116,36,104.92,3764.99,Month-to-month,Fiber optic,No,Yes,Credit card,1
+CUST-10117,13,44.97,579.88,Month-to-month,No,No,No,Electronic check,1
+CUST-10118,32,68.94,2199.68,Two year,Fiber optic,Yes,Yes,Mailed check,0
+CUST-10119,71,42.12,2982.39,Two year,DSL,Yes,No,Credit card,0
+CUST-10120,59,118.77,7016.92,Month-to-month,Fiber optic,No,Yes,Mailed check,0
+CUST-10121,28,114.41,3196.74,Month-to-month,Fiber optic,Yes,Yes,Bank transfer,1
+CUST-10122,66,23.94,1595.3,Two year,DSL,Yes,Yes,Credit card,0
+CUST-10123,42,90.56,3843.47,Month-to-month,Fiber optic,Yes,No,Electronic check,0
+CUST-10124,45,112.52,5058.97,Month-to-month,No,Yes,Yes,Electronic check,0
+CUST-10125,62,38.06,2362.0,Two year,DSL,No,No,Bank transfer,0
+CUST-10126,57,76.79,4382.72,Month-to-month,DSL,Yes,No,Credit card,1
+CUST-10127,6,111.55,696.47,One year,DSL,No,Yes,Mailed check,0
+CUST-10128,28,23.39,653.68,Month-to-month,DSL,No,Yes,Electronic check,1
+CUST-10129,28,89.74,2500.28,Month-to-month,Fiber optic,No,No,Bank transfer,1
+CUST-10130,44,49.73,2169.12,Two year,Fiber optic,Yes,Yes,Bank transfer,0
+CUST-10131,30,112.44,3372.33,Month-to-month,DSL,No,No,Credit card,1
+CUST-10132,62,117.11,7254.09,Two year,No,Yes,Yes,Credit card,0
+CUST-10133,62,114.43,7124.81,One year,Fiber optic,No,Yes,Electronic check,0
+CUST-10134,1,67.42,93.97,Month-to-month,Fiber optic,No,No,Bank transfer,1
+CUST-10135,27,106.2,2851.88,Month-to-month,Fiber optic,No,Yes,Mailed check,1
+CUST-10136,62,104.45,6465.24,Month-to-month,DSL,No,Yes,Bank transfer,1
+CUST-10137,3,51.91,156.84,Month-to-month,Fiber optic,No,Yes,Mailed check,1
+CUST-10138,70,102.89,7223.26,Month-to-month,Fiber optic,No,Yes,Mailed check,0
+CUST-10139,27,23.7,640.76,Month-to-month,Fiber optic,No,Yes,Electronic check,1
+CUST-10140,9,79.63,706.96,Month-to-month,Fiber optic,No,No,Bank transfer,1
+CUST-10141,62,43.0,2665.12,One year,DSL,Yes,Yes,Mailed check,0
+CUST-10142,37,32.06,1176.79,One year,No,No,Yes,Credit card,1
+CUST-10143,51,27.7,1421.74,One year,DSL,No,No,Mailed check,0
+CUST-10144,44,89.63,3933.08,Month-to-month,No,No,Yes,Credit card,1
+CUST-10145,24,53.99,1288.1,Month-to-month,No,No,Yes,Credit card,1
+CUST-10146,59,92.48,5473.75,One year,DSL,No,No,Bank transfer,0
+CUST-10147,32,26.54,837.75,Month-to-month,Fiber optic,Yes,No,Credit card,0
+CUST-10148,52,51.53,2657.87,Month-to-month,DSL,No,Yes,Mailed check,0
+CUST-10149,62,73.95,4586.32,Two year,Fiber optic,Yes,No,Credit card,0
+CUST-10150,58,99.07,5740.65,One year,Fiber optic,No,Yes,Bank transfer,0
+CUST-10151,52,51.88,2705.43,Month-to-month,Fiber optic,Yes,No,Electronic check,0
+CUST-10152,12,82.59,995.84,Month-to-month,No,Yes,Yes,Mailed check,1
+CUST-10153,39,108.6,4234.92,One year,Fiber optic,No,Yes,Mailed check,1
+CUST-10154,2,81.59,162.26,One year,Fiber optic,No,Yes,Bank transfer,0
+CUST-10155,3,43.3,118.86,One year,Fiber optic,Yes,Yes,Bank transfer,0
+CUST-10156,56,22.44,1257.89,One year,No,No,Yes,Bank transfer,0
+CUST-10157,59,107.01,6326.81,Two year,DSL,Yes,No,Bank transfer,0
+CUST-10158,2,22.13,29.66,Month-to-month,No,Yes,Yes,Mailed check,0
+CUST-10159,2,107.47,214.86,Month-to-month,DSL,No,Yes,Electronic check,1
+CUST-10160,54,72.89,3951.64,One year,Fiber optic,No,Yes,Credit card,1
+CUST-10161,1,113.91,121.49,One year,DSL,Yes,Yes,Credit card,1
+CUST-10162,19,99.88,1917.36,One year,DSL,Yes,No,Electronic check,0
+CUST-10163,2,119.79,231.06,Month-to-month,Fiber optic,Yes,Yes,Electronic check,1
+CUST-10164,53,55.07,2891.25,Month-to-month,Fiber optic,Yes,Yes,Electronic check,0
+CUST-10165,44,96.72,4258.69,Two year,DSL,No,Yes,Bank transfer,1
+CUST-10166,32,60.19,1931.52,One year,DSL,No,No,Mailed check,0
+CUST-10167,70,67.99,4779.83,Two year,Fiber optic,Yes,Yes,Mailed check,0
+CUST-10168,32,82.75,2665.82,One year,No,No,Yes,Mailed check,0
+CUST-10169,68,107.37,7309.21,One year,DSL,No,Yes,Bank transfer,0
+CUST-10170,55,118.41,6524.03,One year,DSL,Yes,Yes,Mailed check,0
+CUST-10171,56,96.83,5419.6,Two year,Fiber optic,No,Yes,Bank transfer,0
+CUST-10172,17,61.78,1031.97,One year,DSL,No,No,Mailed check,0
+CUST-10173,38,62.14,2363.09,One year,Fiber optic,Yes,No,Electronic check,1
+CUST-10174,24,93.76,2264.98,Month-to-month,Fiber optic,Yes,No,Credit card,1
+CUST-10175,69,43.88,3037.57,Month-to-month,Fiber optic,No,Yes,Credit card,0
+CUST-10176,70,31.05,2186.01,One year,DSL,No,Yes,Bank transfer,0
+CUST-10177,11,55.46,603.64,Month-to-month,Fiber optic,Yes,Yes,Mailed check,0
+CUST-10178,16,48.72,775.54,Month-to-month,Fiber optic,Yes,No,Credit card,0
+CUST-10179,59,49.63,2935.42,Month-to-month,Fiber optic,No,Yes,Electronic check,1
+CUST-10180,70,43.36,3027.0,Month-to-month,Fiber optic,No,No,Electronic check,1
+CUST-10181,3,24.21,64.89,Month-to-month,Fiber optic,No,Yes,Electronic check,1
+CUST-10182,20,21.79,440.27,Month-to-month,Fiber optic,No,Yes,Bank transfer,0
+CUST-10183,59,118.77,7018.84,Two year,Fiber optic,Yes,Yes,Bank transfer,0
+CUST-10184,36,62.78,2257.09,Month-to-month,No,No,Yes,Mailed check,1
+CUST-10185,19,58.43,1092.72,Month-to-month,Fiber optic,No,No,Electronic check,1
+CUST-10186,67,87.96,5882.28,Month-to-month,Fiber optic,No,No,Mailed check,0
+CUST-10187,19,41.83,797.83,One year,DSL,Yes,Yes,Mailed check,0
+CUST-10188,20,115.0,2302.87,Month-to-month,Fiber optic,No,Yes,Electronic check,1
+CUST-10189,71,98.63,7006.35,Two year,Fiber optic,No,No,Mailed check,1
+CUST-10190,52,28.94,1512.7,One year,DSL,No,No,Credit card,0
+CUST-10191,33,61.76,2038.17,One year,DSL,No,Yes,Bank transfer,1
+CUST-10192,40,107.91,4320.38,Month-to-month,Fiber optic,Yes,Yes,Mailed check,1
+CUST-10193,39,114.47,4463.65,One year,Fiber optic,No,Yes,Electronic check,1
+CUST-10194,1,66.74,83.97,Month-to-month,Fiber optic,No,Yes,Bank transfer,1
+CUST-10195,11,81.34,916.23,Two year,DSL,No,Yes,Bank transfer,1
+CUST-10196,57,36.7,2074.06,One year,Fiber optic,No,Yes,Mailed check,0
+CUST-10197,50,119.12,5952.17,Month-to-month,DSL,No,Yes,Credit card,1
+CUST-10198,23,43.17,993.4,Month-to-month,Fiber optic,No,Yes,Mailed check,1
+CUST-10199,31,114.27,3538.37,Month-to-month,DSL,No,Yes,Credit card,1
+CUST-10200,42,84.96,3595.21,One year,DSL,Yes,No,Bank transfer,1
+CUST-10201,7,80.77,568.75,Month-to-month,DSL,No,No,Mailed check,0
+CUST-10202,16,71.27,1128.24,One year,DSL,Yes,Yes,Electronic check,1
+CUST-10203,60,43.07,2593.15,Month-to-month,DSL,No,No,Mailed check,0
+CUST-10204,2,37.65,79.36,One year,DSL,No,No,Credit card,0
+CUST-10205,1,42.05,46.61,Two year,Fiber optic,No,Yes,Credit card,0
+CUST-10206,48,38.64,1881.84,One year,Fiber optic,No,Yes,Mailed check,0
+CUST-10207,12,97.96,1180.78,One year,DSL,No,No,Credit card,0
+CUST-10208,69,55.01,3791.14,Month-to-month,Fiber optic,Yes,No,Bank transfer,0
+CUST-10209,37,25.78,924.53,Month-to-month,DSL,No,No,Mailed check,0
+CUST-10210,32,116.91,3738.64,One year,Fiber optic,Yes,No,Credit card,1
+CUST-10211,9,108.38,995.01,Month-to-month,DSL,Yes,No,Mailed check,1
+CUST-10212,19,112.78,2141.45,Month-to-month,DSL,No,Yes,Mailed check,1
+CUST-10213,48,119.49,5701.92,Month-to-month,Fiber optic,Yes,Yes,Electronic check,0
+CUST-10214,3,37.39,104.69,Month-to-month,Fiber optic,Yes,Yes,Mailed check,0
+CUST-10215,20,59.62,1207.29,Month-to-month,No,No,Yes,Electronic check,1
+CUST-10216,24,95.82,2307.87,Two year,Fiber optic,No,No,Credit card,0
+CUST-10217,54,89.6,4825.8,Month-to-month,No,No,Yes,Electronic check,1
+CUST-10218,33,35.39,1159.39,One year,DSL,No,No,Electronic check,0
+CUST-10219,24,101.58,2431.76,Month-to-month,DSL,No,Yes,Electronic check,1
+CUST-10220,36,42.44,1517.9,One year,DSL,No,Yes,Bank transfer,0
+CUST-10221,38,42.38,1579.99,Month-to-month,DSL,Yes,Yes,Electronic check,0
+CUST-10222,25,73.7,1853.95,Two year,Fiber optic,No,Yes,Mailed check,0
+CUST-10223,18,79.29,1446.08,Two year,Fiber optic,No,No,Electronic check,0
+CUST-10224,66,78.01,5125.88,Month-to-month,DSL,No,No,Mailed check,0
+CUST-10225,54,29.15,1592.76,Two year,No,No,No,Electronic check,0
+CUST-10226,35,107.75,3769.7,Two year,Fiber optic,No,Yes,Bank transfer,0
+CUST-10227,61,46.56,2858.54,Two year,DSL,Yes,Yes,Credit card,0
+CUST-10228,41,32.95,1351.52,Two year,DSL,No,Yes,Electronic check,0
+CUST-10229,33,108.87,3594.74,Month-to-month,DSL,No,Yes,Electronic check,1
+CUST-10230,68,115.57,7864.35,One year,DSL,No,No,Bank transfer,0
+CUST-10231,33,106.21,3493.08,Month-to-month,DSL,Yes,No,Electronic check,0
+CUST-10232,14,100.95,1431.22,Month-to-month,Fiber optic,No,No,Mailed check,1
+CUST-10233,21,85.52,1779.1,Two year,DSL,No,Yes,Electronic check,1
+CUST-10234,48,75.09,3598.29,Month-to-month,DSL,Yes,No,Electronic check,0
+CUST-10235,20,28.7,581.86,One year,No,Yes,Yes,Credit card,1
+CUST-10236,8,60.85,479.16,Two year,Fiber optic,No,No,Credit card,0
+CUST-10237,7,57.27,412.55,Two year,No,No,Yes,Electronic check,1
+CUST-10238,67,45.98,3101.3,Two year,DSL,No,Yes,Bank transfer,0
+CUST-10239,17,92.34,1584.97,Month-to-month,DSL,Yes,Yes,Credit card,1
+CUST-10240,33,69.59,2267.43,Month-to-month,Fiber optic,No,No,Electronic check,1
+CUST-10241,48,28.1,1350.69,Month-to-month,DSL,No,Yes,Credit card,0
+CUST-10242,59,42.02,2494.61,Month-to-month,DSL,Yes,Yes,Electronic check,0
+CUST-10243,22,88.33,1923.51,Month-to-month,Fiber optic,No,No,Credit card,1
+CUST-10244,30,27.61,839.15,Month-to-month,Fiber optic,Yes,Yes,Credit card,1
+CUST-10245,38,105.12,4004.57,One year,Fiber optic,Yes,Yes,Mailed check,1
+CUST-10246,51,69.51,3526.83,One year,Fiber optic,No,Yes,Electronic check,0
+CUST-10247,54,68.06,3687.75,Month-to-month,Fiber optic,No,Yes,Electronic check,0
+CUST-10248,8,79.24,638.01,One year,DSL,Yes,No,Electronic check,1
+CUST-10249,27,102.47,2776.45,Month-to-month,DSL,No,No,Electronic check,1
+CUST-10250,27,54.78,1464.57,Month-to-month,DSL,Yes,Yes,Credit card,0
+CUST-10251,21,87.8,1846.05,One year,DSL,Yes,No,Mailed check,0
+CUST-10252,30,76.57,2271.53,One year,No,Yes,Yes,Mailed check,0
+CUST-10253,28,46.7,1273.45,One year,Fiber optic,No,Yes,Bank transfer,1
+CUST-10254,64,107.86,6905.15,Month-to-month,Fiber optic,No,Yes,Electronic check,1
+CUST-10255,69,99.74,6898.57,Two year,DSL,No,Yes,Bank transfer,0
+CUST-10256,61,85.85,5240.64,One year,DSL,No,Yes,Credit card,0
+CUST-10257,48,105.06,5041.93,One year,DSL,No,No,Bank transfer,0
+CUST-10258,19,106.73,2025.06,One year,DSL,Yes,No,Electronic check,0
+CUST-10259,4,90.84,349.22,Two year,DSL,No,Yes,Mailed check,0
+CUST-10260,35,103.7,3626.17,One year,Fiber optic,No,Yes,Mailed check,1
+CUST-10261,64,89.75,5750.33,One year,Fiber optic,No,No,Electronic check,0
+CUST-10262,49,88.01,4305.96,Two year,Fiber optic,Yes,No,Credit card,0
+CUST-10263,17,81.86,1402.88,One year,Fiber optic,No,No,Electronic check,0
+CUST-10264,44,95.27,4194.82,Month-to-month,No,Yes,Yes,Credit card,0
+CUST-10265,30,35.86,1080.55,One year,DSL,No,No,Mailed check,0
+CUST-10266,46,108.09,4985.47,Month-to-month,DSL,No,Yes,Credit card,1
+CUST-10267,6,107.18,635.18,Month-to-month,DSL,Yes,Yes,Electronic check,1
+CUST-10268,37,22.92,857.93,One year,Fiber optic,No,Yes,Electronic check,0
+CUST-10269,24,102.58,2456.12,Two year,No,Yes,Yes,Electronic check,0
+CUST-10270,46,32.89,1518.03,Two year,DSL,No,Yes,Credit card,0
+CUST-10271,53,53.51,2826.34,Month-to-month,No,No,Yes,Credit card,0
+CUST-10272,60,94.35,5647.34,Month-to-month,Fiber optic,Yes,Yes,Credit card,0
+CUST-10273,63,36.08,2274.42,Month-to-month,DSL,Yes,No,Mailed check,0
+CUST-10274,32,101.8,3229.32,Two year,DSL,No,Yes,Bank transfer,1
+CUST-10275,33,103.21,3401.49,Two year,Fiber optic,Yes,Yes,Bank transfer,0
+CUST-10276,67,70.75,4716.15,One year,No,Yes,Yes,Electronic check,0
+CUST-10277,18,20.64,383.21,Two year,DSL,Yes,No,Mailed check,0
+CUST-10278,25,48.7,1233.25,One year,Fiber optic,No,Yes,Credit card,0
+CUST-10279,54,81.69,4398.3,One year,DSL,No,Yes,Electronic check,0
+CUST-10280,58,118.12,6857.38,Month-to-month,Fiber optic,Yes,Yes,Mailed check,1
+CUST-10281,67,83.18,5586.55,Month-to-month,Fiber optic,Yes,No,Electronic check,0
+CUST-10282,46,45.98,2128.62,One year,Fiber optic,Yes,No,Mailed check,1
+CUST-10283,24,83.4,2004.82,One year,Fiber optic,Yes,Yes,Mailed check,0
+CUST-10284,32,74.0,2379.01,Month-to-month,Fiber optic,No,Yes,Bank transfer,1
+CUST-10285,47,97.98,4595.32,Two year,No,No,No,Electronic check,0
+CUST-10286,23,30.7,707.35,Month-to-month,DSL,Yes,Yes,Credit card,0
+CUST-10287,66,96.1,6335.59,Month-to-month,Fiber optic,No,No,Bank transfer,0
+CUST-10288,27,74.13,1990.5,One year,DSL,No,Yes,Bank transfer,0
+CUST-10289,2,116.3,233.14,One year,Fiber optic,No,Yes,Credit card,1
+CUST-10290,17,54.19,926.44,One year,Fiber optic,No,Yes,Mailed check,1
+CUST-10291,33,83.26,2765.03,Month-to-month,Fiber optic,No,Yes,Credit card,0
+CUST-10292,9,113.2,1022.78,Month-to-month,Fiber optic,Yes,No,Electronic check,1
+CUST-10293,43,30.25,1310.38,One year,No,Yes,No,Credit card,0
+CUST-10294,48,113.72,5468.36,One year,DSL,Yes,Yes,Mailed check,0
+CUST-10295,39,88.79,3503.12,Month-to-month,Fiber optic,Yes,No,Credit card,0
+CUST-10296,42,26.78,1097.61,One year,DSL,No,Yes,Mailed check,1
+CUST-10297,26,50.1,1292.28,Month-to-month,DSL,No,Yes,Mailed check,1
+CUST-10298,50,90.82,4563.11,One year,DSL,No,Yes,Electronic check,1
+CUST-10299,25,26.74,663.22,Two year,No,No,No,Credit card,0
+CUST-10300,24,78.22,1890.57,Month-to-month,No,No,No,Credit card,0
+CUST-10301,13,54.59,713.12,Month-to-month,No,No,No,Electronic check,0
+CUST-10302,60,82.09,4956.98,One year,No,Yes,No,Mailed check,0
+CUST-10303,7,24.57,155.29,One year,DSL,Yes,No,Credit card,0
+CUST-10304,57,107.15,6125.88,One year,DSL,No,No,Electronic check,0
+CUST-10305,36,117.35,4250.84,Two year,Fiber optic,Yes,No,Mailed check,0
+CUST-10306,45,116.89,5244.83,Two year,Fiber optic,No,No,Electronic check,1
+CUST-10307,20,94.97,1911.14,Two year,Fiber optic,Yes,Yes,Credit card,0
+CUST-10308,65,33.01,2131.17,Month-to-month,DSL,No,Yes,Electronic check,0
+CUST-10309,8,95.83,767.09,Month-to-month,Fiber optic,No,Yes,Bank transfer,1
+CUST-10310,16,22.46,355.51,Month-to-month,Fiber optic,Yes,Yes,Mailed check,0
+CUST-10311,14,22.21,274.9,Month-to-month,DSL,No,Yes,Bank transfer,1
+CUST-10312,15,52.36,791.76,One year,Fiber optic,Yes,Yes,Bank transfer,1
+CUST-10313,66,68.86,4546.91,Month-to-month,Fiber optic,No,No,Mailed check,0
+CUST-10314,32,97.04,3127.47,Two year,Fiber optic,No,Yes,Mailed check,1
+CUST-10315,63,88.33,5573.96,One year,DSL,No,Yes,Electronic check,0
+CUST-10316,51,64.59,3328.45,One year,Fiber optic,No,Yes,Mailed check,0
+CUST-10317,25,47.36,1185.61,Month-to-month,DSL,Yes,No,Bank transfer,0
+CUST-10318,58,119.71,6941.6,Month-to-month,DSL,No,Yes,Bank transfer,0
+CUST-10319,63,62.62,3942.29,Month-to-month,Fiber optic,No,Yes,Credit card,0
+CUST-10320,62,65.14,4032.09,Month-to-month,Fiber optic,No,No,Mailed check,0
+CUST-10321,22,36.36,766.8,Month-to-month,DSL,Yes,No,Bank transfer,0
+CUST-10322,58,99.48,5766.54,One year,Fiber optic,No,Yes,Credit card,0
+CUST-10323,58,89.37,5152.44,Two year,Fiber optic,No,Yes,Credit card,0
+CUST-10324,49,42.08,2068.7,Two year,Fiber optic,Yes,Yes,Electronic check,0
+CUST-10325,52,28.24,1449.88,One year,Fiber optic,No,No,Bank transfer,0
+CUST-10326,42,88.05,3684.69,Month-to-month,Fiber optic,Yes,Yes,Electronic check,1
+CUST-10327,70,85.45,5971.46,Two year,Fiber optic,No,Yes,Bank transfer,0
+CUST-10328,15,47.33,706.88,Two year,DSL,No,Yes,Electronic check,0
+CUST-10329,54,115.09,6214.96,Month-to-month,DSL,No,Yes,Electronic check,0
+CUST-10330,60,35.11,2122.87,One year,Fiber optic,No,No,Mailed check,0
+CUST-10331,8,63.23,497.18,Month-to-month,Fiber optic,No,Yes,Electronic check,1
+CUST-10332,53,114.36,6068.28,Two year,Fiber optic,Yes,Yes,Mailed check,0
+CUST-10333,60,61.97,3759.16,Two year,DSL,Yes,Yes,Credit card,0
+CUST-10334,5,83.85,424.91,Month-to-month,DSL,No,Yes,Bank transfer,0
+CUST-10335,68,59.76,4060.97,Two year,Fiber optic,Yes,Yes,Credit card,0
+CUST-10336,6,47.42,272.83,One year,DSL,Yes,No,Bank transfer,0
+CUST-10337,47,118.4,5561.89,Two year,Fiber optic,No,No,Credit card,0
+CUST-10338,55,60.93,3337.86,Month-to-month,DSL,Yes,No,Bank transfer,0
+CUST-10339,40,109.41,4380.43,Two year,Fiber optic,Yes,No,Electronic check,0
+CUST-10340,52,43.0,2237.55,Month-to-month,No,No,No,Bank transfer,1
+CUST-10341,16,41.31,628.53,Month-to-month,DSL,Yes,Yes,Bank transfer,0
+CUST-10342,13,23.11,300.15,Month-to-month,Fiber optic,No,No,Credit card,1
+CUST-10343,30,85.17,2571.24,Two year,DSL,No,No,Credit card,0
+CUST-10344,19,56.85,1074.16,Two year,Fiber optic,No,No,Credit card,1
+CUST-10345,17,106.44,1799.69,Two year,Fiber optic,Yes,Yes,Mailed check,0
+CUST-10346,63,67.32,4220.49,Two year,Fiber optic,No,Yes,Mailed check,0
+CUST-10347,19,116.82,2191.71,Month-to-month,Fiber optic,No,No,Bank transfer,1
+CUST-10348,58,38.55,2248.37,Month-to-month,No,No,No,Bank transfer,0
+CUST-10349,55,106.86,5874.58,Month-to-month,DSL,Yes,No,Electronic check,0
+CUST-10350,62,97.66,6066.5,Month-to-month,DSL,No,Yes,Electronic check,0
+CUST-10351,23,97.09,2256.04,Month-to-month,No,No,Yes,Bank transfer,1
+CUST-10352,9,104.48,954.14,Month-to-month,Fiber optic,No,Yes,Mailed check,1
+CUST-10353,12,96.1,1145.06,Month-to-month,No,No,No,Bank transfer,0
+CUST-10354,1,82.62,84.79,Month-to-month,Fiber optic,No,Yes,Electronic check,1
+CUST-10355,58,33.12,1911.74,Month-to-month,Fiber optic,No,Yes,Mailed check,0
+CUST-10356,1,23.25,23.25,Month-to-month,Fiber optic,Yes,No,Mailed check,1
+CUST-10357,34,112.08,3815.86,Two year,Fiber optic,No,Yes,Electronic check,0
+CUST-10358,48,81.67,3907.68,One year,No,Yes,No,Bank transfer,0
+CUST-10359,1,99.65,99.65,Two year,Fiber optic,No,Yes,Credit card,1
+CUST-10360,16,68.15,1077.08,Month-to-month,DSL,Yes,No,Bank transfer,0
+CUST-10361,61,31.73,1930.93,Month-to-month,DSL,No,Yes,Bank transfer,0
+CUST-10362,64,32.52,2104.1,One year,DSL,Yes,No,Electronic check,0
+CUST-10363,63,88.56,5571.92,Month-to-month,DSL,No,No,Mailed check,1
+CUST-10364,69,63.03,4356.75,Month-to-month,DSL,No,Yes,Electronic check,1
+CUST-10365,22,40.05,878.58,Month-to-month,Fiber optic,Yes,Yes,Bank transfer,0
+CUST-10366,67,69.16,4652.12,Month-to-month,Fiber optic,Yes,Yes,Credit card,1
+CUST-10367,26,26.42,704.28,Month-to-month,Fiber optic,Yes,No,Credit card,0
+CUST-10368,16,78.2,1268.84,Month-to-month,Fiber optic,No,No,Credit card,0
+CUST-10369,51,46.9,2365.89,One year,DSL,No,Yes,Electronic check,0
+CUST-10370,57,99.76,5689.42,Month-to-month,DSL,No,No,Mailed check,0
+CUST-10371,29,51.04,1491.54,Month-to-month,DSL,Yes,Yes,Electronic check,0
+CUST-10372,69,65.52,4526.6,Two year,Fiber optic,No,No,Credit card,0
+CUST-10373,47,21.16,1004.07,Month-to-month,DSL,No,No,Bank transfer,1
+CUST-10374,62,27.24,1689.76,Month-to-month,DSL,No,Yes,Mailed check,0
+CUST-10375,69,59.25,4077.08,Two year,Fiber optic,No,Yes,Electronic check,0
+CUST-10376,16,67.99,1062.38,Month-to-month,Fiber optic,Yes,Yes,Electronic check,1
+CUST-10377,48,80.0,3830.32,Month-to-month,DSL,Yes,Yes,Mailed check,0
+CUST-10378,39,49.17,1957.8,Month-to-month,Fiber optic,Yes,Yes,Mailed check,1
+CUST-10379,33,89.5,2946.22,Month-to-month,Fiber optic,Yes,Yes,Bank transfer,0
+CUST-10380,23,106.01,2408.84,One year,Fiber optic,Yes,Yes,Mailed check,1
+CUST-10381,10,97.99,990.89,Two year,No,Yes,Yes,Bank transfer,1
+CUST-10382,69,23.96,1666.07,Month-to-month,DSL,No,Yes,Credit card,0
+CUST-10383,34,68.05,2333.01,One year,DSL,No,Yes,Credit card,0
+CUST-10384,52,30.49,1592.54,Month-to-month,No,No,Yes,Electronic check,0
+CUST-10385,10,44.2,454.68,Month-to-month,Fiber optic,No,No,Credit card,0
+CUST-10386,19,118.67,2282.33,One year,Fiber optic,No,No,Credit card,1
+CUST-10387,58,34.25,1975.32,Month-to-month,Fiber optic,Yes,Yes,Bank transfer,0
+CUST-10388,1,69.89,69.89,Month-to-month,Fiber optic,No,Yes,Electronic check,1
+CUST-10389,69,81.82,5629.16,Month-to-month,No,Yes,No,Mailed check,0
+CUST-10390,4,90.25,357.01,Month-to-month,No,No,No,Electronic check,1
+CUST-10391,16,75.96,1236.86,Month-to-month,Fiber optic,Yes,Yes,Credit card,0
+CUST-10392,24,20.98,511.44,Two year,DSL,No,Yes,Mailed check,0
+CUST-10393,2,52.65,112.63,Month-to-month,No,Yes,Yes,Electronic check,0
+CUST-10394,32,71.77,2269.35,Month-to-month,DSL,Yes,Yes,Electronic check,1
+CUST-10395,24,28.79,680.56,Month-to-month,DSL,No,Yes,Electronic check,0
+CUST-10396,12,55.06,633.19,One year,No,Yes,Yes,Electronic check,1
+CUST-10397,50,23.32,1183.57,One year,DSL,No,No,Bank transfer,0
+CUST-10398,35,27.86,998.88,One year,DSL,No,Yes,Electronic check,0
+CUST-10399,33,59.69,1981.46,One year,DSL,No,Yes,Credit card,0
+CUST-10400,33,33.27,1083.11,Two year,No,No,Yes,Credit card,0
+CUST-10401,61,76.75,4703.98,Month-to-month,Fiber optic,No,Yes,Bank transfer,0
+CUST-10402,51,88.95,4532.65,Month-to-month,Fiber optic,Yes,Yes,Mailed check,0
+CUST-10403,43,100.06,4284.36,Two year,DSL,No,Yes,Mailed check,0
+CUST-10404,12,40.02,465.77,Two year,Fiber optic,No,No,Credit card,0
+CUST-10405,67,36.75,2455.8,Two year,Fiber optic,No,Yes,Credit card,0
+CUST-10406,65,30.46,1980.64,Month-to-month,DSL,Yes,No,Bank transfer,0
+CUST-10407,33,83.64,2757.7,Month-to-month,Fiber optic,No,No,Mailed check,1
+CUST-10408,40,90.65,3604.81,Month-to-month,DSL,No,Yes,Mailed check,0
+CUST-10409,43,23.16,1014.08,One year,No,No,Yes,Electronic check,0
+CUST-10410,44,113.62,4997.02,Month-to-month,Fiber optic,No,Yes,Electronic check,1
+CUST-10411,29,25.2,720.09,Month-to-month,No,Yes,No,Electronic check,0
+CUST-10412,13,74.13,980.34,Two year,DSL,No,No,Bank transfer,1
+CUST-10413,12,90.91,1073.17,Month-to-month,Fiber optic,No,No,Credit card,1
+CUST-10414,46,107.1,4902.17,Two year,Fiber optic,No,Yes,Bank transfer,1
+CUST-10415,2,91.41,201.91,Month-to-month,Fiber optic,No,No,Mailed check,1
+CUST-10416,35,100.17,3534.32,Month-to-month,No,Yes,Yes,Credit card,0
+CUST-10417,8,53.95,424.67,Month-to-month,DSL,No,Yes,Electronic check,0
+CUST-10418,26,101.48,2637.79,One year,DSL,No,Yes,Bank transfer,0
+CUST-10419,34,28.01,935.14,Month-to-month,Fiber optic,No,Yes,Bank transfer,1
+CUST-10420,7,109.48,766.44,Month-to-month,Fiber optic,No,No,Electronic check,1
+CUST-10421,68,74.76,5076.54,Two year,Fiber optic,Yes,Yes,Bank transfer,0
+CUST-10422,58,101.73,5898.81,Month-to-month,DSL,No,Yes,Electronic check,0
+CUST-10423,29,65.23,1897.81,One year,Fiber optic,Yes,Yes,Mailed check,0
+CUST-10424,36,84.36,3020.49,One year,DSL,No,No,Credit card,0
+CUST-10425,21,72.64,1520.01,Month-to-month,Fiber optic,No,No,Mailed check,1
+CUST-10426,36,93.16,3326.7,One year,Fiber optic,No,Yes,Mailed check,0
+CUST-10427,10,28.16,276.28,Month-to-month,Fiber optic,No,Yes,Electronic check,1
+CUST-10428,24,26.04,623.56,One year,DSL,No,Yes,Bank transfer,0
+CUST-10429,64,44.71,2864.87,Month-to-month,Fiber optic,No,No,Mailed check,0
+CUST-10430,49,35.95,1765.14,One year,DSL,No,Yes,Mailed check,0
+CUST-10431,36,107.18,3872.04,Month-to-month,DSL,Yes,Yes,Mailed check,0
+CUST-10432,24,41.92,982.99,One year,Fiber optic,Yes,Yes,Bank transfer,0
+CUST-10433,23,117.59,2682.28,Month-to-month,No,Yes,Yes,Bank transfer,1
+CUST-10434,62,53.69,3336.71,Month-to-month,DSL,No,No,Electronic check,1
+CUST-10435,37,38.21,1383.19,Month-to-month,Fiber optic,Yes,Yes,Mailed check,0
+CUST-10436,12,98.97,1190.39,Month-to-month,No,No,Yes,Credit card,1
+CUST-10437,55,85.87,4705.15,Two year,Fiber optic,No,Yes,Bank transfer,1
+CUST-10438,13,69.82,931.25,Month-to-month,DSL,No,Yes,Electronic check,1
+CUST-10439,23,75.54,1741.18,Two year,No,No,No,Mailed check,0
+CUST-10440,30,91.92,2754.31,Two year,DSL,No,Yes,Credit card,0
+CUST-10441,17,42.85,746.87,One year,DSL,Yes,No,Bank transfer,0
+CUST-10442,62,119.63,7401.11,Month-to-month,DSL,No,No,Credit card,1
+CUST-10443,13,117.48,1514.14,Month-to-month,Fiber optic,No,Yes,Bank transfer,0
+CUST-10444,59,85.03,4997.85,One year,DSL,Yes,Yes,Electronic check,0
+CUST-10445,19,39.95,746.07,Month-to-month,DSL,No,Yes,Credit card,1
+CUST-10446,49,88.02,4313.9,Month-to-month,DSL,No,No,Mailed check,1
+CUST-10447,12,27.22,334.05,One year,Fiber optic,No,Yes,Mailed check,0
+CUST-10448,61,23.07,1421.69,Two year,No,Yes,Yes,Bank transfer,0
+CUST-10449,19,45.77,842.26,One year,DSL,No,Yes,Mailed check,1
+CUST-10450,9,66.26,593.76,Month-to-month,No,Yes,No,Credit card,0
+CUST-10451,71,106.83,7568.31,One year,No,Yes,Yes,Electronic check,0
+CUST-10452,28,92.72,2593.08,Month-to-month,Fiber optic,No,Yes,Bank transfer,1
+CUST-10453,52,94.27,4937.05,Month-to-month,DSL,No,Yes,Credit card,1
+CUST-10454,16,62.55,1005.18,Two year,Fiber optic,No,Yes,Bank transfer,0
+CUST-10455,69,54.59,3780.2,Month-to-month,No,Yes,No,Electronic check,0
+CUST-10456,12,57.1,714.61,Month-to-month,Fiber optic,No,Yes,Bank transfer,1
+CUST-10457,25,118.76,2985.91,Month-to-month,DSL,No,No,Mailed check,1
+CUST-10458,52,24.01,1241.8,Two year,Fiber optic,Yes,No,Mailed check,0
+CUST-10459,53,106.7,5635.96,One year,Fiber optic,No,Yes,Bank transfer,0
+CUST-10460,23,77.87,1790.56,One year,Fiber optic,Yes,No,Electronic check,1
+CUST-10461,16,63.86,1013.24,One year,DSL,No,Yes,Electronic check,0
+CUST-10462,57,92.53,5251.34,Month-to-month,DSL,No,Yes,Mailed check,0
+CUST-10463,39,68.67,2681.74,Month-to-month,Fiber optic,Yes,No,Electronic check,0
+CUST-10464,53,107.34,5693.01,Month-to-month,No,Yes,Yes,Bank transfer,0
+CUST-10465,42,110.07,4649.48,Month-to-month,DSL,Yes,No,Credit card,0
+CUST-10466,58,62.17,3600.43,Month-to-month,No,Yes,Yes,Bank transfer,1
+CUST-10467,39,47.68,1863.72,Two year,DSL,No,No,Mailed check,0
+CUST-10468,14,79.24,1099.38,Month-to-month,Fiber optic,No,Yes,Mailed check,0
+CUST-10469,5,111.24,569.3,Month-to-month,Fiber optic,Yes,Yes,Mailed check,1
+CUST-10470,35,41.07,1435.58,Month-to-month,Fiber optic,Yes,Yes,Electronic check,0
+CUST-10471,18,82.3,1463.81,Month-to-month,No,No,No,Bank transfer,1
+CUST-10472,9,83.16,748.24,Two year,DSL,No,No,Credit card,0
+CUST-10473,58,93.31,5417.84,Month-to-month,No,Yes,Yes,Bank transfer,0
+CUST-10474,17,33.16,567.55,Month-to-month,DSL,Yes,No,Credit card,0
+CUST-10475,7,91.58,656.75,One year,Fiber optic,No,Yes,Bank transfer,0
+CUST-10476,46,110.9,5079.68,Month-to-month,Fiber optic,Yes,Yes,Mailed check,1
+CUST-10477,13,37.97,480.97,Month-to-month,Fiber optic,Yes,No,Credit card,1
+CUST-10478,40,43.75,1759.6,Month-to-month,DSL,No,No,Bank transfer,0
+CUST-10479,42,117.14,4909.0,One year,No,No,No,Electronic check,0
+CUST-10480,9,38.1,346.51,Two year,DSL,No,No,Electronic check,0
+CUST-10481,50,105.44,5235.7,One year,DSL,No,Yes,Bank transfer,0
+CUST-10482,27,69.23,1909.95,Month-to-month,Fiber optic,No,No,Mailed check,0
+CUST-10483,66,44.72,2947.47,Two year,Fiber optic,Yes,Yes,Credit card,0
+CUST-10484,5,107.07,553.26,Month-to-month,Fiber optic,No,Yes,Bank transfer,0
+CUST-10485,29,64.53,1866.32,Month-to-month,DSL,Yes,Yes,Electronic check,0
+CUST-10486,37,71.48,2650.98,Month-to-month,DSL,Yes,Yes,Credit card,1
+CUST-10487,38,55.92,2147.34,Month-to-month,Fiber optic,No,Yes,Electronic check,0
+CUST-10488,8,79.3,651.89,Month-to-month,Fiber optic,No,Yes,Electronic check,1
+CUST-10489,65,36.35,2359.68,One year,DSL,No,Yes,Bank transfer,0
+CUST-10490,17,59.11,1002.84,Two year,Fiber optic,No,Yes,Electronic check,0
+CUST-10491,71,116.94,8317.79,Month-to-month,Fiber optic,Yes,Yes,Credit card,0
+CUST-10492,45,45.81,2096.45,Month-to-month,Fiber optic,Yes,Yes,Mailed check,1
+CUST-10493,4,85.67,345.56,Month-to-month,Fiber optic,No,Yes,Bank transfer,1
+CUST-10494,36,52.52,1920.08,Month-to-month,Fiber optic,No,No,Credit card,0
+CUST-10495,70,97.35,6810.88,One year,Fiber optic,No,No,Bank transfer,0
+CUST-10496,31,33.09,1040.07,Month-to-month,Fiber optic,No,No,Electronic check,1
+CUST-10497,19,116.98,2239.14,Two year,DSL,No,Yes,Electronic check,1
+CUST-10498,61,65.38,3982.03,Month-to-month,Fiber optic,No,No,Credit card,0
+CUST-10499,54,43.61,2343.73,Month-to-month,Fiber optic,Yes,Yes,Credit card,0
+CUST-10500,39,27.35,1083.83,Month-to-month,Fiber optic,No,Yes,Mailed check,1
+CUST-10501,19,36.98,694.65,Month-to-month,DSL,No,Yes,Credit card,0
+CUST-10502,39,71.98,2793.8,Month-to-month,No,Yes,No,Credit card,0
+CUST-10503,67,53.7,3587.64,One year,Fiber optic,No,Yes,Bank transfer,0
+CUST-10504,45,102.89,4622.02,Month-to-month,DSL,Yes,Yes,Electronic check,1
+CUST-10505,13,63.09,833.02,One year,Fiber optic,No,Yes,Credit card,0
+CUST-10506,58,44.87,2610.19,Month-to-month,No,Yes,No,Mailed check,0
+CUST-10507,20,81.71,1644.93,Month-to-month,DSL,No,No,Credit card,1
+CUST-10508,61,90.68,5537.8,Month-to-month,No,Yes,Yes,Electronic check,0
+CUST-10509,39,36.7,1422.39,Two year,Fiber optic,No,Yes,Credit card,1
+CUST-10510,1,36.76,47.22,Month-to-month,Fiber optic,Yes,Yes,Bank transfer,1
+CUST-10511,3,23.67,88.75,One year,DSL,Yes,No,Electronic check,1
+CUST-10512,62,93.64,5814.45,Month-to-month,DSL,No,Yes,Credit card,1
+CUST-10513,63,86.38,5448.68,One year,No,No,No,Bank transfer,1
+CUST-10514,25,67.46,1674.99,Month-to-month,DSL,Yes,Yes,Electronic check,0
+CUST-10515,56,104.42,5850.7,One year,Fiber optic,Yes,No,Credit card,0
+CUST-10516,33,100.57,3306.51,One year,DSL,No,Yes,Bank transfer,1
+CUST-10517,38,78.54,2984.16,Two year,DSL,No,Yes,Mailed check,0
+CUST-10518,6,106.83,616.38,Month-to-month,DSL,No,Yes,Bank transfer,0
+CUST-10519,58,40.58,2329.15,Month-to-month,Fiber optic,Yes,Yes,Mailed check,0
+CUST-10520,44,31.19,1369.49,Month-to-month,No,No,Yes,Credit card,0
+CUST-10521,45,46.97,2105.42,Two year,DSL,Yes,No,Bank transfer,0
+CUST-10522,32,25.71,824.32,Month-to-month,DSL,Yes,Yes,Mailed check,0
+CUST-10523,45,73.12,3288.38,One year,DSL,No,No,Electronic check,0
+CUST-10524,61,113.66,6933.71,Month-to-month,Fiber optic,No,No,Bank transfer,1
+CUST-10525,47,23.93,1133.84,Month-to-month,Fiber optic,No,Yes,Credit card,0
+CUST-10526,21,32.21,669.46,Month-to-month,No,Yes,No,Electronic check,0
+CUST-10527,36,65.22,2344.63,Two year,Fiber optic,No,No,Mailed check,0
+CUST-10528,19,113.39,2176.24,One year,Fiber optic,No,Yes,Bank transfer,1
+CUST-10529,20,51.62,1032.45,Two year,DSL,No,No,Bank transfer,0
+CUST-10530,57,70.72,4028.35,Month-to-month,No,Yes,Yes,Credit card,1
+CUST-10531,18,24.16,436.12,One year,DSL,Yes,Yes,Electronic check,0
+CUST-10532,47,34.83,1634.59,One year,DSL,No,No,Bank transfer,0
+CUST-10533,49,118.66,5803.7,Month-to-month,Fiber optic,No,Yes,Bank transfer,0
+CUST-10534,14,116.51,1616.17,Two year,Fiber optic,Yes,Yes,Electronic check,1
+CUST-10535,15,20.49,295.9,Two year,Fiber optic,No,Yes,Bank transfer,0
+CUST-10536,31,115.18,3583.67,Two year,Fiber optic,Yes,No,Electronic check,1
+CUST-10537,1,83.91,83.91,One year,Fiber optic,No,No,Electronic check,1
+CUST-10538,54,106.79,5764.34,Month-to-month,DSL,Yes,Yes,Electronic check,1
+CUST-10539,3,65.47,206.92,Month-to-month,Fiber optic,No,No,Credit card,1
+CUST-10540,16,71.56,1140.78,Two year,Fiber optic,No,No,Electronic check,1
+CUST-10541,57,68.88,3935.66,Month-to-month,Fiber optic,Yes,Yes,Electronic check,1
+CUST-10542,12,86.69,1017.17,One year,Fiber optic,No,Yes,Mailed check,0
+CUST-10543,16,33.97,541.53,One year,DSL,No,No,Mailed check,1
+CUST-10544,24,23.0,553.18,One year,Fiber optic,No,No,Credit card,0
+CUST-10545,28,50.79,1422.47,Two year,Fiber optic,No,No,Electronic check,0
+CUST-10546,8,90.47,698.97,Month-to-month,DSL,Yes,Yes,Mailed check,1
+CUST-10547,36,40.19,1464.89,Month-to-month,Fiber optic,Yes,Yes,Mailed check,0
+CUST-10548,8,87.34,685.9,Month-to-month,No,Yes,Yes,Bank transfer,1
+CUST-10549,58,116.99,6790.45,Month-to-month,Fiber optic,Yes,Yes,Electronic check,1
+CUST-10550,60,29.39,1763.52,Month-to-month,No,Yes,Yes,Mailed check,0
+CUST-10551,50,87.26,4378.06,Month-to-month,DSL,Yes,No,Credit card,0
+CUST-10552,28,64.38,1835.45,Two year,DSL,No,Yes,Bank transfer,1
+CUST-10553,41,106.81,4359.85,Two year,DSL,No,No,Bank transfer,1
+CUST-10554,64,37.71,2403.71,Month-to-month,Fiber optic,Yes,Yes,Electronic check,0
+CUST-10555,27,89.26,2412.86,Month-to-month,DSL,Yes,Yes,Electronic check,1
+CUST-10556,63,103.81,6523.45,Two year,DSL,No,Yes,Bank transfer,0
+CUST-10557,17,114.46,1957.55,Month-to-month,No,Yes,Yes,Credit card,1
+CUST-10558,33,88.32,2927.21,Month-to-month,Fiber optic,Yes,Yes,Electronic check,1
+CUST-10559,29,69.72,2030.27,Month-to-month,Fiber optic,Yes,No,Electronic check,0
+CUST-10560,13,81.78,1066.69,One year,DSL,No,No,Bank transfer,0
+CUST-10561,46,106.89,4937.49,Month-to-month,DSL,No,Yes,Bank transfer,1
+CUST-10562,35,77.06,2679.77,Two year,DSL,No,Yes,Electronic check,0
+CUST-10563,6,23.04,139.22,Month-to-month,Fiber optic,No,No,Mailed check,0
+CUST-10564,69,113.09,7792.13,Month-to-month,No,No,Yes,Electronic check,0
+CUST-10565,47,88.95,4194.0,Month-to-month,Fiber optic,No,Yes,Mailed check,1
+CUST-10566,25,87.65,2163.75,Month-to-month,DSL,No,Yes,Bank transfer,1
+CUST-10567,66,41.57,2743.2,One year,Fiber optic,No,No,Mailed check,0
+CUST-10568,10,85.89,863.93,One year,DSL,Yes,Yes,Credit card,0
+CUST-10569,56,59.39,3311.63,One year,DSL,Yes,Yes,Bank transfer,0
+CUST-10570,30,85.12,2544.21,One year,Fiber optic,No,No,Electronic check,1
+CUST-10571,5,30.66,153.53,Two year,Fiber optic,No,Yes,Electronic check,0
+CUST-10572,33,85.78,2845.07,Two year,DSL,No,Yes,Bank transfer,0
+CUST-10573,65,119.94,7780.61,One year,DSL,No,Yes,Bank transfer,1
+CUST-10574,18,24.82,433.88,Month-to-month,No,No,No,Credit card,0
+CUST-10575,49,117.72,5785.16,Month-to-month,DSL,Yes,Yes,Bank transfer,0
+CUST-10576,11,60.69,663.5,Month-to-month,DSL,No,No,Electronic check,0
+CUST-10577,26,107.08,2772.42,One year,DSL,No,No,Credit card,1
+CUST-10578,63,98.24,6200.05,Month-to-month,DSL,No,Yes,Electronic check,0
+CUST-10579,59,76.7,4517.98,Month-to-month,DSL,No,No,Mailed check,0
+CUST-10580,27,93.84,2549.09,Two year,Fiber optic,No,Yes,Bank transfer,0
+CUST-10581,49,107.85,5274.69,Two year,DSL,Yes,Yes,Mailed check,0
+CUST-10582,33,60.41,1991.14,Two year,Fiber optic,No,Yes,Electronic check,0
+CUST-10583,1,52.7,66.87,Month-to-month,Fiber optic,Yes,Yes,Mailed check,1
+CUST-10584,21,86.76,1818.57,One year,Fiber optic,No,Yes,Mailed check,0
+CUST-10585,55,100.78,5554.24,Month-to-month,No,No,Yes,Electronic check,0
+CUST-10586,6,96.23,576.4,Month-to-month,No,No,Yes,Electronic check,0
+CUST-10587,69,99.78,6914.55,Month-to-month,DSL,No,No,Bank transfer,1
+CUST-10588,5,63.56,341.33,Month-to-month,Fiber optic,No,Yes,Mailed check,0
+CUST-10589,3,101.78,285.42,Month-to-month,Fiber optic,No,No,Credit card,1
+CUST-10590,53,32.02,1704.89,Two year,No,Yes,Yes,Credit card,0
+CUST-10591,23,74.45,1700.1,Month-to-month,Fiber optic,No,Yes,Electronic check,1
+CUST-10592,53,20.58,1093.61,One year,No,No,Yes,Electronic check,0
+CUST-10593,37,52.46,1942.05,Month-to-month,Fiber optic,No,Yes,Mailed check,0
+CUST-10594,17,56.65,947.22,Month-to-month,DSL,Yes,Yes,Electronic check,1
+CUST-10595,1,59.62,75.5,Month-to-month,Fiber optic,No,No,Credit card,0
+CUST-10596,51,89.55,4570.1,Month-to-month,No,No,No,Bank transfer,1
+CUST-10597,45,58.86,2644.43,One year,No,Yes,No,Bank transfer,0
+CUST-10598,4,64.87,252.91,Month-to-month,DSL,Yes,Yes,Mailed check,1
+CUST-10599,62,43.75,2714.6,Month-to-month,Fiber optic,Yes,No,Bank transfer,0
+CUST-10600,65,57.33,3732.57,Month-to-month,DSL,No,Yes,Electronic check,0
+CUST-10601,32,42.73,1365.49,Month-to-month,DSL,No,Yes,Electronic check,0
+CUST-10602,34,27.32,886.39,Two year,Fiber optic,No,No,Electronic check,1
+CUST-10603,39,80.34,3133.51,Month-to-month,DSL,Yes,No,Electronic check,1
+CUST-10604,26,86.82,2235.7,One year,Fiber optic,No,Yes,Mailed check,0
+CUST-10605,34,81.95,2783.16,One year,DSL,Yes,Yes,Bank transfer,0
+CUST-10606,54,66.35,3561.83,Two year,Fiber optic,No,Yes,Credit card,0
+CUST-10607,3,57.98,152.69,Two year,DSL,No,No,Bank transfer,0
+CUST-10608,50,106.33,5335.03,One year,DSL,Yes,Yes,Electronic check,0
+CUST-10609,12,71.91,858.12,One year,DSL,No,No,Credit card,0
+CUST-10610,65,67.92,4408.85,Two year,DSL,Yes,Yes,Mailed check,1
+CUST-10611,54,22.56,1225.48,Month-to-month,DSL,No,Yes,Electronic check,0
+CUST-10612,5,54.12,265.04,Month-to-month,DSL,No,Yes,Electronic check,0
+CUST-10613,57,58.02,3338.7,Month-to-month,Fiber optic,No,Yes,Credit card,0
+CUST-10614,17,59.88,1013.86,Two year,DSL,Yes,Yes,Mailed check,0
+CUST-10615,47,78.02,3672.42,Two year,Fiber optic,Yes,No,Credit card,0
+CUST-10616,23,73.36,1701.84,Month-to-month,DSL,No,No,Mailed check,0
+CUST-10617,14,80.79,1155.09,One year,No,Yes,No,Electronic check,0
+CUST-10618,66,96.49,6357.21,Month-to-month,No,No,No,Bank transfer,1
+CUST-10619,51,101.3,5160.03,Month-to-month,Fiber optic,No,No,Electronic check,1
+CUST-10620,38,91.81,3507.9,Two year,DSL,Yes,Yes,Bank transfer,0
+CUST-10621,64,115.55,7407.35,Month-to-month,DSL,Yes,No,Bank transfer,0
+CUST-10622,38,21.82,845.29,Month-to-month,No,No,Yes,Mailed check,0
+CUST-10623,50,39.58,1958.47,One year,DSL,No,Yes,Credit card,0
+CUST-10624,30,20.76,646.02,One year,DSL,No,Yes,Mailed check,0
+CUST-10625,51,84.75,4310.83,Month-to-month,DSL,No,Yes,Electronic check,0
+CUST-10626,63,109.8,6920.28,One year,DSL,No,Yes,Credit card,0
+CUST-10627,52,44.35,2303.98,Month-to-month,DSL,Yes,No,Bank transfer,0
+CUST-10628,38,112.7,4269.42,Month-to-month,Fiber optic,No,Yes,Bank transfer,1
+CUST-10629,30,26.03,759.71,Month-to-month,DSL,No,Yes,Electronic check,1
+CUST-10630,51,113.44,5759.28,One year,Fiber optic,Yes,Yes,Credit card,0
+CUST-10631,5,55.16,277.59,Month-to-month,DSL,Yes,Yes,Electronic check,0
+CUST-10632,29,30.14,851.18,Two year,DSL,Yes,Yes,Electronic check,0
+CUST-10633,4,68.59,257.35,Two year,No,Yes,Yes,Mailed check,0
+CUST-10634,10,45.68,453.53,Two year,DSL,No,Yes,Electronic check,1
+CUST-10635,56,48.49,2675.86,Month-to-month,Fiber optic,No,Yes,Credit card,1
+CUST-10636,17,50.73,874.09,Two year,Fiber optic,Yes,No,Electronic check,1
+CUST-10637,17,100.3,1668.95,Month-to-month,DSL,Yes,No,Credit card,1
+CUST-10638,69,73.92,5099.32,Month-to-month,No,No,Yes,Bank transfer,0
+CUST-10639,34,51.13,1738.65,Month-to-month,DSL,No,Yes,Electronic check,0
+CUST-10640,6,81.03,494.25,Month-to-month,No,No,Yes,Credit card,1
+CUST-10641,53,91.62,4855.23,One year,DSL,Yes,No,Bank transfer,0
+CUST-10642,66,47.26,3149.43,Month-to-month,No,No,Yes,Credit card,0
+CUST-10643,43,61.35,2641.29,Month-to-month,DSL,No,Yes,Bank transfer,1
+CUST-10644,23,32.19,756.17,One year,Fiber optic,Yes,No,Mailed check,0
+CUST-10645,55,38.11,2085.2,Month-to-month,Fiber optic,Yes,Yes,Electronic check,0
+CUST-10646,16,88.11,1411.57,One year,No,Yes,Yes,Electronic check,0
+CUST-10647,8,38.14,328.33,Month-to-month,No,Yes,Yes,Bank transfer,0
+CUST-10648,4,72.52,286.51,Two year,Fiber optic,No,No,Mailed check,0
+CUST-10649,4,90.9,366.48,Two year,No,No,No,Credit card,0
+CUST-10650,56,30.69,1733.35,Month-to-month,DSL,No,No,Mailed check,0
+CUST-10651,25,76.73,1907.12,Month-to-month,DSL,No,Yes,Credit card,1
+CUST-10652,67,45.66,3026.8,Month-to-month,DSL,No,Yes,Credit card,0
+CUST-10653,67,116.29,7795.26,Two year,DSL,No,No,Electronic check,0
+CUST-10654,27,68.35,1860.28,Month-to-month,DSL,No,No,Bank transfer,1
+CUST-10655,32,100.6,3198.93,Month-to-month,Fiber optic,Yes,Yes,Electronic check,1
+CUST-10656,50,75.02,3761.05,Month-to-month,DSL,No,No,Electronic check,0
+CUST-10657,61,24.34,1494.89,Month-to-month,Fiber optic,No,Yes,Electronic check,1
+CUST-10658,51,83.32,4215.22,Month-to-month,DSL,Yes,Yes,Credit card,0
+CUST-10659,19,115.14,2173.62,Two year,DSL,No,No,Electronic check,0
+CUST-10660,21,80.16,1677.42,Month-to-month,Fiber optic,No,Yes,Credit card,1
+CUST-10661,5,101.92,506.91,Month-to-month,Fiber optic,No,No,Bank transfer,1
+CUST-10662,42,108.42,4542.49,Two year,Fiber optic,No,Yes,Credit card,0
+CUST-10663,61,42.81,2599.45,Two year,Fiber optic,No,Yes,Credit card,0
+CUST-10664,22,41.2,931.47,Month-to-month,DSL,No,No,Mailed check,0
+CUST-10665,21,81.1,1701.49,Month-to-month,Fiber optic,No,No,Electronic check,0
+CUST-10666,70,61.1,4266.57,Month-to-month,DSL,No,Yes,Electronic check,0
+CUST-10667,1,103.99,103.99,Two year,DSL,No,Yes,Electronic check,0
+CUST-10668,5,110.0,558.06,Month-to-month,Fiber optic,No,No,Electronic check,1
+CUST-10669,12,55.34,664.85,Two year,DSL,No,Yes,Mailed check,0
+CUST-10670,46,43.69,2006.65,One year,DSL,No,No,Mailed check,0
+CUST-10671,34,98.05,3323.95,Month-to-month,No,No,No,Mailed check,0
+CUST-10672,49,47.48,2316.59,Month-to-month,No,Yes,Yes,Mailed check,0
+CUST-10673,45,102.26,4592.73,Month-to-month,DSL,Yes,Yes,Electronic check,1
+CUST-10674,27,62.37,1689.07,Month-to-month,DSL,Yes,Yes,Credit card,0
+CUST-10675,26,86.75,2240.59,Month-to-month,DSL,No,No,Bank transfer,0
+CUST-10676,47,29.55,1394.75,One year,DSL,Yes,Yes,Mailed check,0
+CUST-10677,56,82.39,4635.03,Two year,No,Yes,Yes,Credit card,0
+CUST-10678,63,65.18,4111.23,One year,DSL,No,Yes,Mailed check,1
+CUST-10679,48,78.66,3770.14,One year,Fiber optic,Yes,Yes,Electronic check,0
+CUST-10680,61,36.8,2225.33,Month-to-month,DSL,No,Yes,Electronic check,0
+CUST-10681,26,93.69,2459.61,Month-to-month,No,Yes,Yes,Credit card,0
+CUST-10682,36,106.28,3808.53,Month-to-month,DSL,No,No,Credit card,1
+CUST-10683,1,41.67,54.4,One year,Fiber optic,No,No,Credit card,0
+CUST-10684,8,29.57,246.14,Two year,DSL,No,No,Electronic check,0
+CUST-10685,52,22.36,1159.17,One year,Fiber optic,No,Yes,Electronic check,0
+CUST-10686,47,84.2,3953.46,Month-to-month,DSL,No,Yes,Bank transfer,1
+CUST-10687,56,80.71,4492.22,Month-to-month,DSL,Yes,No,Credit card,0
+CUST-10688,14,74.67,1050.33,One year,No,Yes,Yes,Bank transfer,0
+CUST-10689,28,43.19,1218.62,Month-to-month,No,Yes,No,Mailed check,1
+CUST-10690,2,59.09,101.84,Two year,No,No,No,Bank transfer,1
+CUST-10691,26,79.45,2063.36,Two year,Fiber optic,No,Yes,Mailed check,0
+CUST-10692,14,69.68,976.09,One year,Fiber optic,No,No,Mailed check,1
+CUST-10693,59,118.78,7016.79,Month-to-month,DSL,Yes,No,Bank transfer,1
+CUST-10694,56,33.64,1883.9,Month-to-month,DSL,No,Yes,Credit card,0
+CUST-10695,7,89.51,602.18,Month-to-month,DSL,No,Yes,Mailed check,1
+CUST-10696,3,60.43,173.34,Month-to-month,Fiber optic,No,Yes,Credit card,1
+CUST-10697,23,62.82,1448.23,Month-to-month,DSL,No,Yes,Electronic check,1
+CUST-10698,18,91.76,1664.3,One year,DSL,Yes,Yes,Mailed check,0
+CUST-10699,38,89.24,3381.86,One year,Fiber optic,No,Yes,Electronic check,0
+CUST-10700,15,119.13,1819.76,Month-to-month,Fiber optic,No,No,Bank transfer,1
+CUST-10701,64,32.84,2073.34,Month-to-month,DSL,Yes,Yes,Credit card,0
+CUST-10702,28,30.41,843.02,Month-to-month,DSL,Yes,Yes,Bank transfer,0
+CUST-10703,39,92.43,3603.52,Month-to-month,DSL,No,No,Mailed check,1
+CUST-10704,57,77.84,4433.87,Two year,DSL,No,Yes,Electronic check,0
+CUST-10705,17,47.42,787.66,Month-to-month,DSL,No,No,Mailed check,0
+CUST-10706,44,27.94,1236.08,Month-to-month,Fiber optic,Yes,Yes,Bank transfer,0
+CUST-10707,25,28.57,719.82,Month-to-month,Fiber optic,No,Yes,Credit card,1
+CUST-10708,17,109.42,1860.86,Two year,Fiber optic,No,Yes,Credit card,1
+CUST-10709,13,39.19,514.45,One year,DSL,No,No,Mailed check,0
+CUST-10710,25,52.34,1302.14,Month-to-month,Fiber optic,No,Yes,Mailed check,1
+CUST-10711,68,42.67,2877.3,Month-to-month,DSL,Yes,No,Electronic check,0
+CUST-10712,10,55.5,544.25,One year,Fiber optic,No,Yes,Bank transfer,1
+CUST-10713,67,26.94,1807.34,Two year,Fiber optic,No,Yes,Mailed check,0
+CUST-10714,18,71.91,1296.82,Month-to-month,DSL,No,Yes,Electronic check,0
+CUST-10715,34,26.76,910.46,Two year,DSL,No,No,Mailed check,0
+CUST-10716,8,100.04,808.55,Two year,No,No,No,Credit card,1
+CUST-10717,40,43.37,1726.08,Two year,DSL,No,Yes,Electronic check,0
+CUST-10718,42,74.0,3108.4,One year,Fiber optic,No,Yes,Electronic check,0
+CUST-10719,41,108.01,4436.99,One year,DSL,No,Yes,Mailed check,0
+CUST-10720,6,85.09,509.27,Month-to-month,Fiber optic,No,Yes,Bank transfer,1
+CUST-10721,52,73.3,3792.95,One year,DSL,No,Yes,Credit card,0
+CUST-10722,26,52.43,1348.76,Month-to-month,DSL,No,No,Bank transfer,1
+CUST-10723,64,53.3,3423.66,One year,Fiber optic,No,No,Electronic check,0
+CUST-10724,59,86.95,5150.94,Month-to-month,DSL,Yes,Yes,Bank transfer,0
+CUST-10725,56,119.41,6704.59,One year,DSL,No,Yes,Electronic check,0
+CUST-10726,59,86.18,5088.1,Two year,DSL,Yes,No,Bank transfer,0
+CUST-10727,70,75.78,5286.55,Month-to-month,DSL,No,No,Mailed check,0
+CUST-10728,33,93.07,3071.21,Two year,DSL,Yes,Yes,Bank transfer,0
+CUST-10729,53,66.52,3548.99,Month-to-month,DSL,No,Yes,Electronic check,0
+CUST-10730,22,26.01,581.5,Two year,No,No,Yes,Credit card,0
+CUST-10731,21,76.23,1597.72,Month-to-month,DSL,No,Yes,Credit card,1
+CUST-10732,70,115.76,8112.63,Month-to-month,Fiber optic,No,Yes,Credit card,0
+CUST-10733,70,37.53,2608.06,Two year,DSL,Yes,Yes,Electronic check,0
+CUST-10734,4,89.0,345.56,Month-to-month,DSL,No,No,Bank transfer,1
+CUST-10735,62,40.09,2469.32,Two year,No,Yes,Yes,Credit card,0
+CUST-10736,62,73.58,4569.0,Month-to-month,DSL,No,Yes,Credit card,1
+CUST-10737,24,29.67,722.79,Month-to-month,No,No,Yes,Credit card,1
+CUST-10738,55,65.04,3574.89,Month-to-month,DSL,No,No,Mailed check,0
+CUST-10739,9,95.62,847.49,One year,Fiber optic,Yes,No,Electronic check,0
+CUST-10740,3,54.76,163.98,Month-to-month,Fiber optic,Yes,Yes,Electronic check,1
+CUST-10741,31,86.49,2673.89,Month-to-month,No,No,Yes,Electronic check,1
+CUST-10742,40,99.54,3969.66,Month-to-month,Fiber optic,No,No,Electronic check,0
+CUST-10743,36,112.72,4063.0,Month-to-month,Fiber optic,No,Yes,Electronic check,1
+CUST-10744,24,43.46,1031.67,Two year,DSL,No,Yes,Mailed check,0
+CUST-10745,6,59.93,336.08,Two year,DSL,No,Yes,Bank transfer,1
+CUST-10746,66,35.24,2305.68,Month-to-month,No,Yes,Yes,Mailed check,0
+CUST-10747,4,119.25,452.95,One year,DSL,No,Yes,Credit card,0
+CUST-10748,6,112.7,679.91,Month-to-month,DSL,No,No,Mailed check,1
+CUST-10749,51,74.0,3776.26,One year,Fiber optic,Yes,No,Electronic check,0
+CUST-10750,62,104.2,6461.91,Two year,DSL,No,Yes,Mailed check,0
+CUST-10751,57,72.1,4118.52,Two year,No,Yes,No,Electronic check,0
+CUST-10752,66,82.36,5453.64,Month-to-month,Fiber optic,No,Yes,Mailed check,1
+CUST-10753,8,28.91,222.4,One year,Fiber optic,Yes,Yes,Electronic check,0
+CUST-10754,26,95.53,2489.88,Month-to-month,No,No,Yes,Credit card,1
+CUST-10755,51,32.77,1647.58,Two year,DSL,Yes,No,Electronic check,0
+CUST-10756,45,102.61,4638.13,Month-to-month,DSL,No,Yes,Mailed check,1
+CUST-10757,44,98.2,4302.13,One year,Fiber optic,No,Yes,Credit card,1
+CUST-10758,5,90.87,443.7,One year,DSL,No,No,Mailed check,0
+CUST-10759,70,23.62,1644.43,One year,Fiber optic,No,No,Credit card,0
+CUST-10760,26,50.31,1285.17,Month-to-month,No,No,No,Bank transfer,1
+CUST-10761,68,46.31,3149.57,Two year,Fiber optic,Yes,Yes,Bank transfer,0
+CUST-10762,19,56.01,1067.4,Month-to-month,DSL,Yes,Yes,Bank transfer,0
+CUST-10763,20,28.76,572.36,One year,No,Yes,Yes,Mailed check,1
+CUST-10764,12,113.7,1341.3,Month-to-month,Fiber optic,No,Yes,Mailed check,1
+CUST-10765,47,75.38,3572.61,Month-to-month,Fiber optic,No,No,Credit card,0
+CUST-10766,1,50.55,58.79,Month-to-month,DSL,No,Yes,Credit card,1
+CUST-10767,14,59.7,875.31,Month-to-month,No,No,Yes,Credit card,1
+CUST-10768,64,64.72,4130.0,Month-to-month,Fiber optic,Yes,No,Credit card,1
+CUST-10769,38,80.06,3056.65,Month-to-month,Fiber optic,Yes,Yes,Electronic check,0
+CUST-10770,37,71.57,2659.78,Month-to-month,Fiber optic,Yes,Yes,Bank transfer,0
+CUST-10771,11,111.94,1226.98,One year,DSL,No,No,Electronic check,1
+CUST-10772,3,69.7,230.27,Two year,Fiber optic,Yes,No,Electronic check,1
+CUST-10773,33,119.22,3928.18,Month-to-month,Fiber optic,Yes,No,Electronic check,0
+CUST-10774,6,105.14,625.43,Month-to-month,DSL,No,Yes,Electronic check,1
+CUST-10775,50,40.85,1990.43,Month-to-month,Fiber optic,No,Yes,Bank transfer,1
+CUST-10776,10,113.06,1136.74,Month-to-month,No,Yes,No,Electronic check,0
+CUST-10777,5,31.64,138.32,One year,Fiber optic,Yes,Yes,Credit card,0
+CUST-10778,23,101.74,2331.76,One year,Fiber optic,Yes,Yes,Mailed check,0
+CUST-10779,10,58.06,565.21,Month-to-month,Fiber optic,No,No,Credit card,1
+CUST-10780,44,107.8,4737.71,Month-to-month,Fiber optic,No,Yes,Mailed check,0
+CUST-10781,2,106.81,220.28,Month-to-month,DSL,Yes,No,Credit card,1
+CUST-10782,13,100.59,1307.84,Two year,DSL,Yes,Yes,Credit card,1
+CUST-10783,40,99.0,3970.64,Two year,Fiber optic,No,Yes,Mailed check,0
+CUST-10784,2,50.47,119.92,Month-to-month,Fiber optic,No,Yes,Bank transfer,1
+CUST-10785,65,28.09,1820.32,Month-to-month,Fiber optic,Yes,No,Electronic check,0
+CUST-10786,63,60.3,3791.72,Two year,Fiber optic,No,Yes,Credit card,0
+CUST-10787,17,37.35,649.32,Two year,DSL,Yes,Yes,Bank transfer,0
+CUST-10788,9,89.5,821.06,Month-to-month,Fiber optic,No,No,Electronic check,1
+CUST-10789,15,54.61,830.26,Month-to-month,DSL,No,No,Bank transfer,0
+CUST-10790,24,117.56,2807.16,Month-to-month,Fiber optic,No,No,Bank transfer,1
+CUST-10791,38,84.1,3202.14,One year,Fiber optic,No,Yes,Electronic check,0
+CUST-10792,35,102.25,3580.39,Month-to-month,DSL,No,Yes,Credit card,0
+CUST-10793,49,33.25,1645.04,Month-to-month,DSL,No,No,Bank transfer,0
+CUST-10794,69,106.2,7319.21,One year,Fiber optic,No,No,Credit card,0
+CUST-10795,62,112.28,6936.36,Month-to-month,Fiber optic,No,Yes,Credit card,0
+CUST-10796,60,68.71,4132.95,One year,DSL,No,Yes,Credit card,0
+CUST-10797,50,80.63,3993.12,Month-to-month,No,No,No,Electronic check,0
+CUST-10798,9,96.48,857.35,Month-to-month,Fiber optic,Yes,Yes,Mailed check,1
+CUST-10799,34,37.48,1258.97,One year,No,No,No,Credit card,0
+CUST-10800,35,70.26,2443.65,Month-to-month,Fiber optic,No,Yes,Mailed check,1
+CUST-10801,1,59.87,59.87,Two year,Fiber optic,No,Yes,Mailed check,1
+CUST-10802,40,34.64,1403.86,Month-to-month,No,Yes,No,Bank transfer,0
+CUST-10803,64,56.75,3644.31,Month-to-month,Fiber optic,No,Yes,Credit card,0
+CUST-10804,22,26.82,586.26,One year,Fiber optic,No,Yes,Credit card,1
+CUST-10805,60,22.58,1371.8,Month-to-month,DSL,Yes,Yes,Credit card,0
+CUST-10806,64,33.52,2129.35,Two year,Fiber optic,No,Yes,Mailed check,0
+CUST-10807,11,116.31,1261.44,Month-to-month,DSL,Yes,No,Electronic check,1
+CUST-10808,14,74.95,1062.25,Month-to-month,DSL,Yes,No,Mailed check,0
+CUST-10809,60,116.58,7003.49,Month-to-month,DSL,No,No,Credit card,0
+CUST-10810,30,63.25,1890.6,Month-to-month,DSL,No,Yes,Credit card,0
+CUST-10811,35,51.18,1774.27,Two year,No,No,Yes,Credit card,1
+CUST-10812,37,70.61,2634.47,Two year,DSL,Yes,Yes,Mailed check,0
+CUST-10813,5,63.95,293.95,Month-to-month,Fiber optic,No,No,Credit card,0
+CUST-10814,26,30.57,785.84,Month-to-month,Fiber optic,Yes,No,Bank transfer,0
+CUST-10815,62,84.08,5216.39,Two year,Fiber optic,Yes,No,Credit card,0
+CUST-10816,4,41.6,193.43,Two year,DSL,Yes,Yes,Electronic check,0
+CUST-10817,42,81.96,3448.07,Month-to-month,Fiber optic,No,Yes,Bank transfer,1
+CUST-10818,18,85.02,1537.56,Month-to-month,Fiber optic,No,Yes,Credit card,1
+CUST-10819,40,35.2,1399.46,Month-to-month,Fiber optic,No,Yes,Bank transfer,1
+CUST-10820,39,26.13,1027.6,Two year,Fiber optic,No,Yes,Credit card,0
+CUST-10821,14,98.08,1374.7,Month-to-month,No,Yes,No,Electronic check,0
+CUST-10822,32,65.98,2087.53,Month-to-month,Fiber optic,No,Yes,Credit card,1
+CUST-10823,51,25.82,1328.71,One year,DSL,No,Yes,Bank transfer,0
+CUST-10824,38,119.49,4555.18,Month-to-month,Fiber optic,No,Yes,Electronic check,0
+CUST-10825,23,25.78,604.99,Month-to-month,DSL,Yes,No,Mailed check,0
+CUST-10826,63,89.5,5639.0,Month-to-month,No,No,Yes,Electronic check,0
+CUST-10827,15,118.37,1761.21,Month-to-month,DSL,No,No,Electronic check,0
+CUST-10828,25,43.92,1063.36,Month-to-month,DSL,No,No,Electronic check,0
+CUST-10829,17,34.22,584.1,Month-to-month,Fiber optic,No,Yes,Bank transfer,1
+CUST-10830,66,32.14,2137.47,Month-to-month,Fiber optic,Yes,No,Electronic check,0
+CUST-10831,53,50.33,2682.42,One year,DSL,No,Yes,Credit card,0
+CUST-10832,51,30.1,1547.34,Two year,Fiber optic,Yes,Yes,Electronic check,0
+CUST-10833,39,89.22,3478.47,One year,No,No,No,Electronic check,0
+CUST-10834,51,26.23,1354.04,Month-to-month,DSL,No,No,Credit card,0
+CUST-10835,70,70.94,4979.66,Month-to-month,No,Yes,Yes,Credit card,0
+CUST-10836,6,119.67,711.68,Month-to-month,DSL,No,Yes,Mailed check,1
+CUST-10837,67,101.4,6803.95,Month-to-month,Fiber optic,No,Yes,Electronic check,1
+CUST-10838,7,81.52,562.6,Month-to-month,Fiber optic,Yes,Yes,Bank transfer,1
+CUST-10839,51,50.63,2590.23,One year,DSL,No,Yes,Electronic check,0
+CUST-10840,42,82.39,3440.89,Month-to-month,Fiber optic,Yes,Yes,Electronic check,1
+CUST-10841,64,72.7,4634.47,Month-to-month,DSL,No,Yes,Credit card,1
+CUST-10842,15,62.61,955.02,Month-to-month,Fiber optic,No,No,Mailed check,1
+CUST-10843,29,33.07,973.09,One year,Fiber optic,No,Yes,Electronic check,0
+CUST-10844,33,108.66,3595.28,Month-to-month,Fiber optic,No,Yes,Bank transfer,1
+CUST-10845,27,64.98,1755.78,One year,DSL,No,Yes,Electronic check,0
+CUST-10846,36,39.46,1384.69,Month-to-month,DSL,No,No,Bank transfer,1
+CUST-10847,29,56.78,1645.5,Two year,DSL,Yes,Yes,Credit card,0
+CUST-10848,38,61.41,2340.39,Two year,DSL,No,Yes,Mailed check,0
+CUST-10849,57,102.75,5848.73,Month-to-month,Fiber optic,No,Yes,Electronic check,1
+CUST-10850,27,93.36,2510.03,Month-to-month,No,Yes,No,Mailed check,0
+CUST-10851,55,96.93,5352.82,Month-to-month,Fiber optic,No,Yes,Electronic check,1
+CUST-10852,33,21.1,695.4,Month-to-month,Fiber optic,No,No,Bank transfer,0
+CUST-10853,68,61.62,4196.98,One year,No,No,No,Mailed check,0
+CUST-10854,66,68.13,4508.19,Two year,Fiber optic,Yes,No,Electronic check,0
+CUST-10855,10,21.92,204.18,One year,No,Yes,No,Credit card,0
+CUST-10856,5,45.98,232.8,Two year,Fiber optic,Yes,Yes,Bank transfer,1
+CUST-10857,38,96.03,3668.93,Month-to-month,DSL,No,Yes,Mailed check,1
+CUST-10858,13,33.71,465.52,Month-to-month,DSL,Yes,No,Electronic check,0
+CUST-10859,31,73.53,2280.03,One year,Fiber optic,No,Yes,Mailed check,0
+CUST-10860,47,41.52,1947.87,Month-to-month,DSL,Yes,Yes,Electronic check,0
+CUST-10861,52,21.21,1106.96,One year,DSL,No,No,Bank transfer,0
+CUST-10862,56,44.12,2474.37,Month-to-month,Fiber optic,No,Yes,Credit card,1
+CUST-10863,15,117.59,1784.65,Month-to-month,Fiber optic,No,Yes,Bank transfer,1
+CUST-10864,29,100.15,2889.4,Two year,Fiber optic,Yes,Yes,Mailed check,0
+CUST-10865,8,115.96,923.48,Month-to-month,DSL,No,Yes,Mailed check,1
+CUST-10866,5,68.79,327.19,Two year,DSL,Yes,No,Electronic check,0
+CUST-10867,29,30.97,882.95,Two year,Fiber optic,No,Yes,Bank transfer,1
+CUST-10868,47,74.8,3521.25,One year,No,No,Yes,Electronic check,0
+CUST-10869,68,65.44,4462.07,One year,Fiber optic,Yes,Yes,Bank transfer,0
+CUST-10870,45,104.44,4690.06,One year,No,No,No,Mailed check,0
+CUST-10871,2,29.81,71.2,Two year,Fiber optic,No,No,Electronic check,0
+CUST-10872,27,68.82,1874.81,Month-to-month,Fiber optic,Yes,Yes,Electronic check,0
+CUST-10873,36,35.0,1289.02,Month-to-month,DSL,No,No,Bank transfer,0
+CUST-10874,36,52.47,1889.97,One year,Fiber optic,Yes,Yes,Credit card,0
+CUST-10875,26,93.74,2427.64,Month-to-month,Fiber optic,No,No,Bank transfer,1
+CUST-10876,43,67.6,2891.76,Month-to-month,Fiber optic,No,Yes,Credit card,0
+CUST-10877,27,57.59,1538.4,Month-to-month,Fiber optic,Yes,No,Bank transfer,0
+CUST-10878,69,59.45,4120.8,One year,Fiber optic,No,Yes,Mailed check,0
+CUST-10879,20,65.94,1296.07,Two year,DSL,No,Yes,Electronic check,0
+CUST-10880,11,98.5,1101.77,Month-to-month,Fiber optic,No,Yes,Bank transfer,1
+CUST-10881,38,109.21,4136.95,Two year,DSL,No,No,Mailed check,0
+CUST-10882,6,115.53,682.9,One year,Fiber optic,No,Yes,Bank transfer,1
+CUST-10883,23,98.69,2267.6,Two year,DSL,No,No,Electronic check,0
+CUST-10884,47,51.54,2411.83,One year,DSL,No,Yes,Bank transfer,0
+CUST-10885,46,88.81,4099.24,One year,Fiber optic,No,Yes,Credit card,0
+CUST-10886,12,63.76,792.32,Month-to-month,Fiber optic,No,Yes,Electronic check,1
+CUST-10887,13,45.47,581.25,Two year,Fiber optic,No,No,Credit card,1
+CUST-10888,62,104.09,6447.1,Month-to-month,DSL,No,Yes,Mailed check,0
+CUST-10889,60,23.84,1427.95,Two year,Fiber optic,No,No,Mailed check,0
+CUST-10890,43,110.18,4745.86,Two year,DSL,No,No,Bank transfer,0
+CUST-10891,68,66.15,4495.9,Month-to-month,No,No,No,Credit card,0
+CUST-10892,5,83.72,439.41,Month-to-month,No,Yes,Yes,Credit card,0
+CUST-10893,37,85.94,3196.98,One year,Fiber optic,No,No,Electronic check,0
+CUST-10894,31,109.51,3377.03,Month-to-month,DSL,No,No,Credit card,0
+CUST-10895,9,83.67,760.84,Two year,Fiber optic,Yes,Yes,Credit card,0
+CUST-10896,51,81.39,4173.7,Month-to-month,DSL,No,No,Electronic check,0
+CUST-10897,29,26.67,766.01,Month-to-month,Fiber optic,No,Yes,Electronic check,0
+CUST-10898,40,71.84,2869.19,Two year,DSL,Yes,Yes,Credit card,0
+CUST-10899,41,35.02,1427.9,One year,No,Yes,Yes,Bank transfer,0
+CUST-10900,11,93.74,1023.53,Two year,DSL,Yes,Yes,Electronic check,1
+CUST-10901,23,71.22,1613.03,Month-to-month,Fiber optic,No,Yes,Electronic check,1
+CUST-10902,1,88.02,88.02,One year,Fiber optic,Yes,Yes,Credit card,1
+CUST-10903,46,24.17,1112.98,One year,Fiber optic,Yes,No,Credit card,0
+CUST-10904,21,28.48,620.78,One year,DSL,No,Yes,Electronic check,0
+CUST-10905,36,91.63,3289.48,One year,No,Yes,Yes,Credit card,0
+CUST-10906,54,27.21,1459.7,One year,Fiber optic,Yes,Yes,Electronic check,0
+CUST-10907,57,27.13,1571.93,Month-to-month,Fiber optic,Yes,Yes,Bank transfer,0
+CUST-10908,1,21.21,21.21,Month-to-month,DSL,No,No,Bank transfer,1
+CUST-10909,63,115.65,7261.03,One year,Fiber optic,No,Yes,Electronic check,0
+CUST-10910,54,93.75,5050.07,Month-to-month,Fiber optic,No,No,Electronic check,1
+CUST-10911,55,55.33,3033.21,One year,DSL,No,Yes,Mailed check,0
+CUST-10912,40,49.65,1959.79,Month-to-month,DSL,No,No,Mailed check,0
+CUST-10913,15,54.97,822.63,One year,Fiber optic,No,Yes,Credit card,0
+CUST-10914,21,97.47,2061.1,One year,DSL,Yes,Yes,Credit card,1
+CUST-10915,47,86.14,4029.29,Month-to-month,DSL,Yes,No,Electronic check,0
+CUST-10916,53,38.52,2042.87,Month-to-month,Fiber optic,No,Yes,Electronic check,0
+CUST-10917,9,37.41,342.63,Month-to-month,Fiber optic,No,No,Mailed check,0
+CUST-10918,52,29.84,1550.43,One year,DSL,Yes,No,Mailed check,0
+CUST-10919,57,86.03,4906.5,Two year,Fiber optic,No,Yes,Electronic check,0
+CUST-10920,26,96.44,2510.4,Month-to-month,DSL,Yes,Yes,Bank transfer,0
+CUST-10921,41,46.5,1894.31,One year,DSL,No,Yes,Bank transfer,0
+CUST-10922,35,22.09,795.63,Month-to-month,DSL,No,No,Credit card,1
+CUST-10923,63,28.22,1796.58,Month-to-month,Fiber optic,Yes,No,Electronic check,0
+CUST-10924,25,116.79,2937.6,Two year,DSL,No,Yes,Electronic check,0
+CUST-10925,38,49.54,1897.73,Month-to-month,DSL,Yes,Yes,Credit card,0
+CUST-10926,2,96.92,170.22,Month-to-month,Fiber optic,No,Yes,Mailed check,1
+CUST-10927,7,82.47,591.18,Month-to-month,Fiber optic,Yes,No,Mailed check,1
+CUST-10928,34,58.19,1988.29,Month-to-month,DSL,No,Yes,Bank transfer,1
+CUST-10929,17,40.57,666.64,Month-to-month,Fiber optic,Yes,Yes,Electronic check,0
+CUST-10930,43,32.14,1378.8,Month-to-month,DSL,No,No,Mailed check,0
+CUST-10931,59,81.5,4812.65,One year,Fiber optic,No,Yes,Bank transfer,0
+CUST-10932,51,97.46,4995.42,Month-to-month,Fiber optic,No,Yes,Bank transfer,0
+CUST-10933,54,84.39,4567.93,Month-to-month,Fiber optic,Yes,No,Bank transfer,0
+CUST-10934,24,73.03,1739.75,Month-to-month,DSL,No,No,Mailed check,1
+CUST-10935,25,24.2,630.43,Month-to-month,DSL,Yes,Yes,Mailed check,0
+CUST-10936,71,116.85,8297.01,One year,DSL,Yes,Yes,Electronic check,0
+CUST-10937,52,99.87,5189.4,Two year,DSL,No,Yes,Electronic check,0
+CUST-10938,70,49.28,3444.69,Month-to-month,DSL,Yes,Yes,Bank transfer,0
+CUST-10939,33,118.0,3869.65,Two year,Fiber optic,Yes,No,Bank transfer,0
+CUST-10940,49,80.19,3927.66,One year,No,No,Yes,Mailed check,0
+CUST-10941,29,78.24,2276.42,One year,No,No,No,Mailed check,0
+CUST-10942,63,94.81,5967.25,Month-to-month,No,No,No,Electronic check,0
+CUST-10943,22,101.18,2232.27,Month-to-month,Fiber optic,No,Yes,Electronic check,0
+CUST-10944,26,85.65,2213.93,Month-to-month,Fiber optic,No,Yes,Credit card,1
+CUST-10945,28,32.81,916.57,One year,DSL,Yes,Yes,Electronic check,0
+CUST-10946,49,53.83,2642.42,Month-to-month,Fiber optic,No,No,Mailed check,0
+CUST-10947,71,112.81,8012.35,Two year,Fiber optic,No,No,Bank transfer,0
+CUST-10948,49,42.46,2056.46,Month-to-month,Fiber optic,No,Yes,Credit card,1
+CUST-10949,20,57.22,1137.81,Month-to-month,Fiber optic,Yes,No,Electronic check,1
+CUST-10950,63,63.21,4007.39,One year,DSL,No,Yes,Electronic check,0
+CUST-10951,61,63.94,3892.95,Month-to-month,DSL,Yes,No,Mailed check,0
+CUST-10952,49,81.29,3983.45,Month-to-month,No,Yes,Yes,Credit card,1
+CUST-10953,71,114.31,8114.71,One year,DSL,Yes,Yes,Electronic check,0
+CUST-10954,1,44.07,67.59,Two year,Fiber optic,No,No,Bank transfer,0
+CUST-10955,13,32.15,437.31,One year,No,No,Yes,Mailed check,1
+CUST-10956,51,39.75,2039.36,One year,Fiber optic,No,Yes,Credit card,0
+CUST-10957,56,108.69,6072.04,One year,Fiber optic,No,Yes,Electronic check,0
+CUST-10958,62,84.58,5249.35,Two year,DSL,Yes,Yes,Electronic check,0
+CUST-10959,32,48.59,1563.4,Month-to-month,DSL,Yes,Yes,Credit card,0
+CUST-10960,30,101.59,3037.22,Month-to-month,No,Yes,No,Mailed check,0
+CUST-10961,29,106.14,3065.0,Month-to-month,Fiber optic,No,Yes,Credit card,1
+CUST-10962,49,104.65,5153.43,Month-to-month,Fiber optic,No,Yes,Credit card,1
+CUST-10963,45,111.89,5030.54,One year,DSL,No,No,Mailed check,1
+CUST-10964,30,45.22,1380.82,One year,DSL,Yes,Yes,Electronic check,0
+CUST-10965,16,95.5,1542.96,One year,No,Yes,Yes,Bank transfer,0
+CUST-10966,40,66.05,2648.12,Month-to-month,DSL,Yes,No,Mailed check,0
+CUST-10967,19,104.2,1986.59,One year,Fiber optic,No,No,Bank transfer,0
+CUST-10968,18,92.85,1650.29,Month-to-month,DSL,No,No,Electronic check,1
+CUST-10969,1,97.64,100.74,One year,Fiber optic,No,No,Credit card,1
+CUST-10970,47,85.62,4045.4,One year,No,No,Yes,Bank transfer,0
+CUST-10971,66,37.74,2501.06,Month-to-month,Fiber optic,No,No,Electronic check,0
+CUST-10972,38,74.5,2833.32,Month-to-month,DSL,No,Yes,Electronic check,0
+CUST-10973,51,118.47,6067.65,Month-to-month,Fiber optic,Yes,No,Credit card,1
+CUST-10974,63,113.74,7162.84,Two year,Fiber optic,No,Yes,Credit card,0
+CUST-10975,4,24.32,87.99,Two year,Fiber optic,No,No,Electronic check,0
+CUST-10976,1,36.48,38.79,One year,No,Yes,No,Electronic check,0
+CUST-10977,8,33.17,276.86,Month-to-month,Fiber optic,No,No,Bank transfer,1
+CUST-10978,29,92.6,2659.63,Month-to-month,No,No,Yes,Electronic check,1
+CUST-10979,55,101.78,5602.17,One year,Fiber optic,No,Yes,Electronic check,0
+CUST-10980,3,41.35,136.21,One year,DSL,No,No,Bank transfer,1
+CUST-10981,32,70.59,2254.84,Month-to-month,DSL,No,No,Mailed check,1
+CUST-10982,10,104.07,1057.3,Month-to-month,DSL,No,Yes,Bank transfer,1
+CUST-10983,34,93.28,3181.14,One year,No,Yes,No,Bank transfer,0
+CUST-10984,55,74.22,4114.22,Month-to-month,Fiber optic,Yes,No,Credit card,0
+CUST-10985,32,79.03,2517.7,Month-to-month,Fiber optic,Yes,Yes,Bank transfer,1
+CUST-10986,50,70.84,3554.46,Month-to-month,DSL,Yes,No,Electronic check,0
+CUST-10987,7,49.75,332.99,Month-to-month,DSL,No,Yes,Electronic check,1
+CUST-10988,8,76.5,587.77,Two year,Fiber optic,No,Yes,Electronic check,1
+CUST-10989,65,88.89,5747.32,Two year,Fiber optic,Yes,Yes,Mailed check,0
+CUST-10990,57,107.33,6125.88,One year,DSL,No,Yes,Electronic check,0
+CUST-10991,67,83.63,5605.97,Month-to-month,Fiber optic,Yes,No,Mailed check,0
+CUST-10992,59,96.11,5663.3,Month-to-month,DSL,Yes,Yes,Electronic check,0
+CUST-10993,54,36.01,1917.94,Month-to-month,DSL,Yes,No,Bank transfer,1
+CUST-10994,67,66.16,4422.36,Month-to-month,Fiber optic,No,No,Credit card,0
+CUST-10995,51,20.93,1067.49,One year,DSL,Yes,No,Electronic check,0
+CUST-10996,8,44.67,369.26,Month-to-month,No,No,Yes,Mailed check,1
+CUST-10997,34,92.65,3149.85,Month-to-month,DSL,No,No,Mailed check,0
+CUST-10998,35,119.18,4175.08,Month-to-month,DSL,No,Yes,Credit card,1
+CUST-10999,32,29.92,951.8,Month-to-month,DSL,Yes,Yes,Electronic check,0
